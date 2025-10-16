@@ -1,0 +1,943 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{andrade2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2c9668a7e6782723e972af9ab18b3f5}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Ana\bibnamedelimb Paula\bibnamedelima de},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Treinaweb}%
+      }
+      \strng{namehash}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{fullhash}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{fullhashraw}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{bibnamehash}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{authorbibnamehash}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{authornamehash}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{authorfullhash}{f2c9668a7e6782723e972af9ab18b3f5}
+      \strng{authorfullhashraw}{f2c9668a7e6782723e972af9ab18b3f5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principais aplicações para gerenciamento de banco de dados com interface gráfica}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.treinaweb.com.br/blog/principais-aplicacoes-para-gerenciamento-de-banco-de-dados-com-interface-grafica
+      \endverb
+      \verb{url}
+      \verb https://www.treinaweb.com.br/blog/principais-aplicacoes-para-gerenciamento-de-banco-de-dados-com-interface-grafica
+      \endverb
+    \endentry
+    \entry{awari2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46032a8c68c1e3c41bb9e2071673ae64}{%
+           family={Awari},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Awari by Influence}%
+      }
+      \strng{namehash}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{fullhash}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{fullhashraw}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{bibnamehash}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{authorbibnamehash}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{authornamehash}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{authorfullhash}{46032a8c68c1e3c41bb9e2071673ae64}
+      \strng{authorfullhashraw}{46032a8c68c1e3c41bb9e2071673ae64}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O papel do Diagrama Entidade-Relacionamento na modelagem de dados}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://awari.com.br/diagrama-entidade-relacionamento/
+      \endverb
+      \verb{url}
+      \verb https://awari.com.br/diagrama-entidade-relacionamento/
+      \endverb
+    \endentry
+    \entry{bertini2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fdb80a977564becb8f835296bffcf13b}{%
+           family={Bertini},
+           familyi={B\bibinitperiod},
+           given={Giovana},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9932947c27ed767316a98bb13b04113}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Maria\bibnamedelima Maschio},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aeb5bdaf5e64ee93b780e77e0950862}{%
+           family={Izumi},
+           familyi={I\bibinitperiod},
+           given={Kelly\bibnamedelima Kanae},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff54eee85305cbaea750557f6f9057cf}{%
+           family={Izumi},
+           familyi={I\bibinitperiod},
+           given={Karyna\bibnamedelima Satomi},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{fullhash}{48da7d5b5d44d4444e3458d96174e6d9}
+      \strng{fullhashraw}{48da7d5b5d44d4444e3458d96174e6d9}
+      \strng{bibnamehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{authorbibnamehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{authornamehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{authorfullhash}{48da7d5b5d44d4444e3458d96174e6d9}
+      \strng{authorfullhashraw}{48da7d5b5d44d4444e3458d96174e6d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Manguezais, Camarões-de-Água-Doce e Manjuba-de-Iguape: Patrimônios Natural e Cultural do Vale do Ribeira e Litoral Sul do Estado de São Paulo}
+      \field{title}{Camarões-de-Água-Doce do Vale do Ribeira: Riqueza, Importância Ecológica e Econômica}
+      \field{year}{2021}
+      \field{pages}{71\bibrangedash 72}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb www.registro.unesp.br/Home/pesquisa5012/e-book_-manguezais_camaroes_manjuba_2021v090321.pdf
+      \endverb
+      \verb{url}
+      \verb www.registro.unesp.br/Home/pesquisa5012/e-book_-manguezais_camaroes_manjuba_2021v090321.pdf
+      \endverb
+    \endentry
+    \entry{alura2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7eff0703ce561d0ff106e50da85059a9}{%
+           family={Bessa},
+           familyi={B\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Alura}%
+      }
+      \strng{namehash}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{fullhash}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{fullhashraw}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{bibnamehash}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{authorbibnamehash}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{authornamehash}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{authorfullhash}{7eff0703ce561d0ff106e50da85059a9}
+      \strng{authorfullhashraw}{7eff0703ce561d0ff106e50da85059a9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Node.JS: o que é, como funciona esse ambiente de execução JavaScript e um Guia para iniciar}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.alura.com.br/artigos/node-js#:~:text=Runtime%20e%20V8-,O%20Node.,a%20ser%20executada%20pelo%20computador
+      \endverb
+      \verb{url}
+      \verb https://www.alura.com.br/artigos/node-js#:~:text=Runtime%20e%20V8-,O%20Node.,a%20ser%20executada%20pelo%20computador
+      \endverb
+    \endentry
+    \entry{biava2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=604a81b2608d3d7a66d917cf9d67af94}{%
+           family={Biava},
+           familyi={B\bibinitperiod},
+           given={Jônatan\bibnamedelimb de\bibnamedelima Oliveira},
+           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{fullhash}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{fullhashraw}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{bibnamehash}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{authorbibnamehash}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{authornamehash}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{authorfullhash}{604a81b2608d3d7a66d917cf9d67af94}
+      \strng{authorfullhashraw}{604a81b2608d3d7a66d917cf9d67af94}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A metodologia Canvas e suas variações para o desenvolvimento do empreendedorismo}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://repositorio.unesc.net/bitstream/1/5617/1/J%C3%B4nata%20de%20Oliveira%20Biava.pdf
+      \endverb
+      \verb{url}
+      \verb http://repositorio.unesc.net/bitstream/1/5617/1/J%C3%B4nata%20de%20Oliveira%20Biava.pdf
+      \endverb
+    \endentry
+    \entry{dantas2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25b429bfe31c3b810697f0b9b5fbc4dc}{%
+           family={Dantas},
+           familyi={D\bibinitperiod},
+           given={Matheus\bibnamedelimb Fernandes\bibnamedelimb do\bibnamedelima Nascimento},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Quixadá, CE}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Federal do Ceará - Campus de Quixadá}%
+      }
+      \strng{namehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{fullhash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{fullhashraw}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{bibnamehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authorbibnamehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authornamehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authorfullhash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authorfullhashraw}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Um sistema de telemonitoramento e automação baseado em rede LoRa para criação de camarão}
+      \field{year}{2020}
+      \field{pages}{16\bibrangedash 48}
+      \range{pages}{33}
+      \verb{urlraw}
+      \verb http://www.repositorio.ufc.br/handle/riufc/61231
+      \endverb
+      \verb{url}
+      \verb http://www.repositorio.ufc.br/handle/riufc/61231
+      \endverb
+    \endentry
+    \entry{carlos2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=274af00f372dcd331d98f470b34ac0c4}{%
+           family={E},
+           familyi={E\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hostinger}%
+      }
+      \strng{namehash}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{fullhash}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{fullhashraw}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{bibnamehash}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{authorbibnamehash}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{authornamehash}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{authorfullhash}{274af00f372dcd331d98f470b34ac0c4}
+      \strng{authorfullhashraw}{274af00f372dcd331d98f470b34ac0c4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O Que é JavaScript e Para Que Serve na Programação Web}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.hostinger.com.br/tutoriais/o-que-e-javascript
+      \endverb
+      \verb{url}
+      \verb https://www.hostinger.com.br/tutoriais/o-que-e-javascript
+      \endverb
+    \endentry
+    \entry{ebac2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49081c5e99be65ee854063a725ab7ed9}{%
+           family={Ebac},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Escola Britânica de Artes Criativas {\&} Tecnologia}%
+      }
+      \strng{namehash}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{fullhash}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{fullhashraw}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{bibnamehash}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{authorbibnamehash}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{authornamehash}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{authorfullhash}{49081c5e99be65ee854063a725ab7ed9}
+      \strng{authorfullhashraw}{49081c5e99be65ee854063a725ab7ed9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é Bootstrap e como utilizá-lo}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ebaconline.com.br/blog/o-que-e-bootstrap
+      \endverb
+      \verb{url}
+      \verb https://ebaconline.com.br/blog/o-que-e-bootstrap
+      \endverb
+    \endentry
+    \entry{ariane2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b4ca80430571841fd6257ca10b0739b5}{%
+           family={G},
+           familyi={G\bibinitperiod},
+           given={Ariane},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hostinger}%
+      }
+      \strng{namehash}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{fullhash}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{fullhashraw}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{bibnamehash}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{authorbibnamehash}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{authornamehash}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{authorfullhash}{b4ca80430571841fd6257ca10b0739b5}
+      \strng{authorfullhashraw}{b4ca80430571841fd6257ca10b0739b5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é CSS? Guia Básico para Iniciantes}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css
+      \endverb
+      \verb{url}
+      \verb https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css
+      \endverb
+    \endentry
+    \entry{longen2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=629e7a647b94cd9d8a278030256985ef}{%
+           family={Longen},
+           familyi={L\bibinitperiod},
+           given={Andrei\bibnamedelima Silveira},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hostinger}%
+      }
+      \strng{namehash}{629e7a647b94cd9d8a278030256985ef}
+      \strng{fullhash}{629e7a647b94cd9d8a278030256985ef}
+      \strng{fullhashraw}{629e7a647b94cd9d8a278030256985ef}
+      \strng{bibnamehash}{629e7a647b94cd9d8a278030256985ef}
+      \strng{authorbibnamehash}{629e7a647b94cd9d8a278030256985ef}
+      \strng{authornamehash}{629e7a647b94cd9d8a278030256985ef}
+      \strng{authorfullhash}{629e7a647b94cd9d8a278030256985ef}
+      \strng{authorfullhashraw}{629e7a647b94cd9d8a278030256985ef}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O Que é HTML: O Guia Definitivo para Iniciantes}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos
+      \endverb
+      \verb{url}
+      \verb https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos
+      \endverb
+    \endentry
+    \entry{lopes2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=696d220f3acae257e125329b4c9a3cc8}{%
+           family={Lopes},
+           familyi={L\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Escola Britânica de Artes Criativas {\&} Tecnologia}%
+      }
+      \strng{namehash}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{fullhash}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{fullhashraw}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{bibnamehash}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{authorbibnamehash}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{authornamehash}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{authorfullhash}{696d220f3acae257e125329b4c9a3cc8}
+      \strng{authorfullhashraw}{696d220f3acae257e125329b4c9a3cc8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é Figma e como usar?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ebaconline.com.br/blog/o-que-e-figma-e-como-usar
+      \endverb
+      \verb{url}
+      \verb https://ebaconline.com.br/blog/o-que-e-figma-e-como-usar
+      \endverb
+    \endentry
+    \entry{lucidchart32024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acb7aa9b6445b9eed9b213f48b831011}{%
+           family={LucidChart},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LucidChart}%
+      }
+      \strng{namehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{bibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorbibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authornamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diagrama de caso de uso UML: O que é, como fazer e exemplos}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml#:~:text=um%20diagrama%20UML-,O%20que%20%C3%A9%20diagrama%20de%20caso%20de%20uso%3F,de%20s%C3%ADmbolos%20e%20conectores%20especializados.
+      \endverb
+      \verb{url}
+      \verb https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml#:~:text=um%20diagrama%20UML-,O%20que%20%C3%A9%20diagrama%20de%20caso%20de%20uso%3F,de%20s%C3%ADmbolos%20e%20conectores%20especializados.
+      \endverb
+    \endentry
+    \entry{lucidchart2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acb7aa9b6445b9eed9b213f48b831011}{%
+           family={LucidChart},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LucidChart}%
+      }
+      \strng{namehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{bibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorbibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authornamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é o Diagrama UML}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lucidchart.com/pages/pt/o-que-e-uml#:~:text=De%20modo%20geral%2C%20diagramas%20UML,por%20meio%20de%20diagramas%20UML
+      \endverb
+      \verb{url}
+      \verb https://www.lucidchart.com/pages/pt/o-que-e-uml#:~:text=De%20modo%20geral%2C%20diagramas%20UML,por%20meio%20de%20diagramas%20UML
+      \endverb
+    \endentry
+    \entry{lucidchart12024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acb7aa9b6445b9eed9b213f48b831011}{%
+           family={LucidChart},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LucidChart}%
+      }
+      \strng{namehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{bibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorbibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authornamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \field{extraname}{3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é um diagrama de classe UML?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml
+      \endverb
+      \verb{url}
+      \verb https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml
+      \endverb
+    \endentry
+    \entry{lucidchart22024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acb7aa9b6445b9eed9b213f48b831011}{%
+           family={LucidChart},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LucidChart}%
+      }
+      \strng{namehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{fullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{bibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorbibnamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authornamehash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhash}{acb7aa9b6445b9eed9b213f48b831011}
+      \strng{authorfullhashraw}{acb7aa9b6445b9eed9b213f48b831011}
+      \field{extraname}{4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é um diagrama de objetos?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-objetos-uml
+      \endverb
+      \verb{url}
+      \verb https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-objetos-uml
+      \endverb
+    \endentry
+    \entry{mensagem2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e80e19e3946de91a436e5ac77849aeee}{%
+           family={Mensagem},
+           familyi={M\bibinitperiod},
+           given={Meios},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {meio {\&} mensagem}%
+      }
+      \strng{namehash}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{fullhash}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{fullhashraw}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{bibnamehash}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{authorbibnamehash}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{authornamehash}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{authorfullhash}{e80e19e3946de91a436e5ac77849aeee}
+      \strng{authorfullhashraw}{e80e19e3946de91a436e5ac77849aeee}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algoritmo de recomendação: o que é e como ele contribui para as estratégias personalizadas}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.meioemensagem.com.br/proxxima/pxx-noticias/algoritmo-de-recomendacao
+      \endverb
+      \verb{url}
+      \verb https://www.meioemensagem.com.br/proxxima/pxx-noticias/algoritmo-de-recomendacao
+      \endverb
+    \endentry
+    \entry{methaseo2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1b57ba0d01e116bd2b327a61f625daad}{%
+           family={Methaseo},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Methaseo}%
+      }
+      \strng{namehash}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{fullhash}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{fullhashraw}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{bibnamehash}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{authorbibnamehash}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{authornamehash}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{authorfullhash}{1b57ba0d01e116bd2b327a61f625daad}
+      \strng{authorfullhashraw}{1b57ba0d01e116bd2b327a61f625daad}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é: XAMPP (Cross-Platform, Apache, MySQL, PHP, and Perl)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://methaseo.com.br/glossario/o-que-e-xampp-cross-platform-apache-mysql-php-and-perl/
+      \endverb
+      \verb{url}
+      \verb https://methaseo.com.br/glossario/o-que-e-xampp-cross-platform-apache-mysql-php-and-perl/
+      \endverb
+    \endentry
+    \entry{Rocha2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=8ae722ecd409cb5e8d73cee3bd906762}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Diego\bibnamedelima Maia},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Aquaculture Brasil}%
+      }
+      \strng{namehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{fullhash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{fullhashraw}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{bibnamehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authorbibnamehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authornamehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authorfullhash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authorfullhashraw}{8ae722ecd409cb5e8d73cee3bd906762}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Produção, Mercado e Promoção do consumo de camarão: Por que aumenta, dia a dia, a necessidade de entendermos um pouco mais sobre o que anda acontecendo com cada um desses temas?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.aquaculturebrasil.com/coluna/369/producao,-mercado-e-promocao-do-consumo-de-camarao:-por-que-aumenta,-dia-a-dia,-a-necessidade-de-entendermos-um-pouco-mais-sobre-o-que-anda-acontecendo-com-cada-um-desses-temas
+      \endverb
+      \verb{url}
+      \verb https://www.aquaculturebrasil.com/coluna/369/producao,-mercado-e-promocao-do-consumo-de-camarao:-por-que-aumenta,-dia-a-dia,-a-necessidade-de-entendermos-um-pouco-mais-sobre-o-que-anda-acontecendo-com-cada-um-desses-temas
+      \endverb
+    \endentry
+    \entry{Rocha2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=90c1e46ced2eb5aa9e7d22849c0d81b0}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Feed {\&} Food}%
+      }
+      \strng{namehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{fullhash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{fullhashraw}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{bibnamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorbibnamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authornamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorfullhash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorfullhashraw}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carcinicultura marinha: uma análise da produção em 2023}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023
+      \endverb
+      \verb{url}
+      \verb feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023
+      \endverb
+    \endentry
+    \entry{souza2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2a643aaaffdbac9efe120dcde2b6cc4}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Fábio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Embarcados}%
+      }
+      \strng{namehash}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{fullhash}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{fullhashraw}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{bibnamehash}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{authorbibnamehash}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{authornamehash}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{authorfullhash}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \strng{authorfullhashraw}{f2a643aaaffdbac9efe120dcde2b6cc4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que são sistemas embarcados?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://embarcados.com.br/o-que-sao-sistemas-embarcados/
+      \endverb
+      \verb{url}
+      \verb https://embarcados.com.br/o-que-sao-sistemas-embarcados/
+      \endverb
+    \endentry
+    \entry{ODS12}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a833af89fed621637337e6d208d39e0}{%
+           family={{The Global Goals}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{fullhash}{4a833af89fed621637337e6d208d39e0}
+      \strng{fullhashraw}{4a833af89fed621637337e6d208d39e0}
+      \strng{bibnamehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authorbibnamehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authornamehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authorfullhash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authorfullhashraw}{4a833af89fed621637337e6d208d39e0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The 17 Goals}
+      \verb{urlraw}
+      \verb https://www.globalgoals.org/goals/12-responsible-consumption-and-production/
+      \endverb
+      \verb{url}
+      \verb https://www.globalgoals.org/goals/12-responsible-consumption-and-production/
+      \endverb
+    \endentry
+    \entry{thomsen2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b99fca9d660374e5670df7d2a0a45eb}{%
+           family={Thomsen},
+           familyi={T\bibinitperiod},
+           given={Adilson},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MakerHero}%
+      }
+      \strng{namehash}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{fullhash}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{fullhashraw}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{bibnamehash}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{authorbibnamehash}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{authornamehash}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{authorfullhash}{3b99fca9d660374e5670df7d2a0a45eb}
+      \strng{authorfullhashraw}{3b99fca9d660374e5670df7d2a0a45eb}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O que é Arduino, para que serve e primeiros passos}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.makerhero.com/blog/o-que-e-arduino/
+      \endverb
+      \verb{url}
+      \verb https://www.makerhero.com/blog/o-que-e-arduino/
+      \endverb
+    \endentry
+    \entry{Uddin2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=52a1d2439e8e1a2b99e94cf362cd595f}{%
+           family={Uddin},
+           familyi={U\bibinitperiod},
+           given={Mohammad\bibnamedelima Salah},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1aad09bb27580bb47342431d7786f4a7}{%
+           family={Fatin\bibnamedelima Istiaq},
+           familyi={F\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Md.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51c39cfa0553fce158e3830b97ce784e}{%
+           family={Rasadin},
+           familyi={R\bibinitperiod},
+           given={Mohd.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d96d3dde431a0b10360dea3f5dfb422b}{%
+           family={Ruhel\bibnamedelima Talukder},
+           familyi={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Md.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{fullhash}{ad054c173c271adf0c80d77dc258875b}
+      \strng{fullhashraw}{ad054c173c271adf0c80d77dc258875b}
+      \strng{bibnamehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{authorbibnamehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{authornamehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{authorfullhash}{ad054c173c271adf0c80d77dc258875b}
+      \strng{authorfullhashraw}{ad054c173c271adf0c80d77dc258875b}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering Reports}
+      \field{number}{7}
+      \field{title}{Freshwater shrimp farm monitoring system for Bangladesh based on internet of things}
+      \field{volume}{2}
+      \field{year}{2020}
+      \field{pages}{2\bibrangedash 12}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://doi.org/10.1002/eng2.12184
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/eng2.12184
+      \endverb
+    \endentry
+    \entry{Ximenes2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a233b1a2720f958b83e7a0d1317ab16a}{%
+           family={Ximenes},
+           familyi={X\bibinitperiod},
+           given={Luciano\bibnamedelima Feijão},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6583a8557c9ebb4b3241727268981849}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={Maria\bibnamedelimb de\bibnamedelima Fátima},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Banco do Nordeste}%
+      }
+      \strng{namehash}{08972b8064a667c95daf383683b81cba}
+      \strng{fullhash}{08972b8064a667c95daf383683b81cba}
+      \strng{fullhashraw}{08972b8064a667c95daf383683b81cba}
+      \strng{bibnamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorbibnamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authornamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorfullhash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorfullhashraw}{08972b8064a667c95daf383683b81cba}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carcinicultura}
+      \field{year}{2023}
+      \field{pages}{3\bibrangedash 4}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://www.bnb.gov.br/s482-dspace/bitstream/123456789/1736/4/2023_CDS_274.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bnb.gov.br/s482-dspace/bitstream/123456789/1736/4/2023_CDS_274.pdf
+      \endverb
+    \endentry
+    \entry{Zainuddin2019/}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=77adbccb8a9fc5270d6fa02137ddfd98}{%
+           family={Zainuddin},
+           familyi={Z\bibinitperiod},
+           given={Zaryanti},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be007857c49272d4e78ea78c349b4b64}{%
+           family={Idris},
+           familyi={I\bibinitperiod},
+           given={Riswan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d435ced60e7272d6a88743a2cefc6d2c}{%
+           family={Azis},
+           familyi={A\bibinitperiod},
+           given={Asmawaty},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Atlantis Press}%
+      }
+      \strng{namehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{fullhash}{b89504434a36cb31c4154401c29c341e}
+      \strng{fullhashraw}{b89504434a36cb31c4154401c29c341e}
+      \strng{bibnamehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authorbibnamehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authornamehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authorfullhash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authorfullhashraw}{b89504434a36cb31c4154401c29c341e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the First International Conference on Materials Engineering and Management - Engineering Section (ICMEMe 2018)}
+      \field{isbn}{978-94-6252-679-2}
+      \field{title}{Water Quality Monitoring System for Vannamae Shrimp Cultivation Based on Wireless Sensor Network In Taipa, Mappakasunggu District, Takalar}
+      \field{year}{2019}
+      \field{pages}{89\bibrangedash 92}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://doi.org/10.2991/icmeme-18.2019.20
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2991/icmeme-18.2019.20
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

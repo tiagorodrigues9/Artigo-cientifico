@@ -1,0 +1,15 @@
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\setlength {\parskip }{\z@ plus\p@ }\listsfontsize 
+\contentsline {section}{Diagrama de Caso de Uso}{3}{section*.3}%
+\contentsline {section}{Diagrama de Classe}{5}{section*.5}%
+\contentsline {section}{Diagrama de Objetos}{6}{section*.7}%
+\contentsline {section}{Diagrama de Redes}{8}{section*.9}%
+\contentsline {section}{Modelo de Negócios Canvas}{9}{section*.11}%
+\contentsline {section}{Modelo Lógico, Conceitual e Físico do Banco de Dados}{10}{section*.13}%
+\contentsline {section}{Script SQL}{14}{section*.17}%
+\contentsline {section}{Análise de recorrência do algoritmo Merge Sort}{21}{section*.18}%
+\contentsline {section}{Diário de Bordo}{23}{section*.19}%

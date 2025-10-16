@@ -1,0 +1,196 @@
+@misc{ODS12,
+    title = {The 17 Goals},
+    author = {{The Global Goals}},
+    howpublished = {Disponível em: \url{https://www.globalgoals.org/goals/12-responsible-consumption-and-production/}},
+}
+
+@article{bertini2021,
+    author = {Bertini, Giovana and Rodrigues, Maria Maschio and Izumi, Kelly Kanae and Izumi, Karyna Satomi},
+    booktitle = {Manguezais, Camarões-de-Água-Doce
+e Manjuba-de-Iguape: Patrimônios
+Natural e Cultural do Vale do Ribeira
+e Litoral Sul do Estado de São Paulo
+},
+    title = {Camarões-de-Água-Doce do Vale do Ribeira:
+Riqueza, Importância Ecológica e Econômica},
+    year = {2021},
+    pages = {71--72},
+    url= {www.registro.unesp.br/Home/pesquisa5012/e-book_-manguezais_camaroes_manjuba_2021v090321.pdf}
+}
+
+@incollection{Rocha2023,
+    author = {Rocha, Diego Maia},
+    title = {Produção, Mercado e Promoção do consumo de camarão: Por que aumenta, dia a dia, a necessidade de entendermos um pouco mais sobre o que anda acontecendo com cada um desses temas?},
+    publisher = {Aquaculture Brasil},
+    year = {2023},
+    url = {https://www.aquaculturebrasil.com/coluna/369/producao,-mercado-e-promocao-do-consumo-de-camarao:-por-que-aumenta,-dia-a-dia,-a-necessidade-de-entendermos-um-pouco-mais-sobre-o-que-anda-acontecendo-com-cada-um-desses-temas}
+}
+
+@incollection{Rocha2024,
+    author = {Rocha, Itamar},
+    title = {Carcinicultura marinha: uma análise da produção em 2023},
+    publisher = {Feed {\&} Food},
+    year = {2024},
+    url= {feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023},
+}
+
+@article{Ximenes2023,
+    author = {Ximenes, Luciano Feijão and Vidal, Maria de Fátima},
+    title = {Carcinicultura},
+    publisher= {Banco do Nordeste},
+    year = {2023},
+    pages = {3--4}
+}
+
+@misc{Aceleradora2023,
+    author = {Aceleradora, Oxigênio},
+    title = {5 tipos de inteligência artificial que existem no mercado atualmente},
+    publisher = {Oxigênio Aceleradora},
+    year= {2023},
+    url= {https://blog.oxigenioaceleradora.com.br/tipos-de-inteligencia-artificial/#2_IA_baseada_em_aprendizado_de_maquina}
+}
+
+@article{Uddin2020,
+    author = {Uddin, Mohammad Salah and Fatin Istiaq, Md. and Rasadin, Mohd. and Ruhel Talukder, Md.},
+    title = {Freshwater shrimp farm monitoring system for Bangladesh based on internet of things},
+    journal = {Engineering Reports},
+    volume = {2},
+    number = {7},
+    pages = {2--12},
+    url = {https://doi.org/10.1002/eng2.12184},
+    year = {2020},
+}
+
+@article{Zainuddin2019/,
+  title={Water Quality Monitoring System for Vannamae Shrimp Cultivation Based on Wireless Sensor Network In Taipa, Mappakasunggu District, Takalar},
+  author={Zainuddin, Zaryanti and Idris, Riswan and Azis, Asmawaty},
+  year={2019},
+  booktitle={Proceedings of the First International Conference on Materials Engineering and Management - Engineering Section (ICMEMe 2018)},
+  pages={89-92},
+  isbn={978-94-6252-679-2},
+  url={https://doi.org/10.2991/icmeme-18.2019.20},
+  publisher={Atlantis Press}
+}
+
+
+@article{dantas2020,
+  author = 	 {Dantas, Matheus Fernandes do Nascimento},
+  title = 	 {Um sistema de telemonitoramento e automação baseado em rede LoRa para criação de camarão},
+  pages = 	 {16---48},
+  year = 	 {2020},
+  url ={http://www.repositorio.ufc.br/handle/riufc/61231},
+  publisher = {Universidade Federal do Ceará - Campus de Quixadá},
+  address= {Quixadá, CE},
+    
+}
+
+@misc{lopes2023,
+    author = {Lopes, Michele},
+    title = {O que é Figma e como usar?},
+    publisher = {Escola Britânica de Artes Criativas {\&} Tecnologia},
+    year = {2023},
+    url = {https://ebaconline.com.br/blog/o-que-e-figma-e-como-usar}
+}
+
+@article{biava2017,
+    author = {Biava, Jônatan de Oliveira},
+    title = {A metodologia Canvas e suas variações para o desenvolvimento
+do empreendedorismo},
+    year ={2017},
+    url ={http://repositorio.unesc.net/bitstream/1/5617/1/J%C3%B4nata%20de%20Oliveira%20Biava.pdf}
+}
+
+@misc{oracle2024,
+    author = {Oracle},
+    title = {Por que o Oracle APEX?},
+    year = {2024},
+    url = {https://apex.oracle.com/pt-br/platform/why-oracle-apex/}
+}
+
+@misc{awari2023,
+    author = {Awari},
+    title = {O papel do Diagrama Entidade-Relacionamento na modelagem de dados},
+    year = {2023},
+    publisher = {Awari by Influence},
+    url = {https://awari.com.br/diagrama-entidade-relacionamento/}
+}
+
+@misc{longen2023,
+    author = {Longen, Andrei Silveira},
+    title ={O Que é HTML: O Guia Definitivo para Iniciantes},
+    year = {2023},
+    publisher = {Hostinger},
+    url = {https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos}
+}
+
+@misc{ariane2022,
+    author = {Ariane G},
+    title = {O que é CSS? Guia Básico para Iniciantes},
+    year = {2022},
+    publisher = {Hostinger},
+    url = {https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css}
+}
+
+@misc{carlos2023,
+    author = {Carlos E},
+    title = {O Que é JavaScript e Para Que Serve na Programação Web},
+    year = {2023},
+    publisher = {Hostinger},
+    url = {https://www.hostinger.com.br/tutoriais/o-que-e-javascript}
+}
+
+@misc{ebac2023,
+    author = {Ebac},
+    title = {O que é Bootstrap e como utilizá-lo},
+    year = {2023},
+    publisher = {Escola Britânica de Artes Criativas {\&} Tecnologia},
+    url = {https://ebaconline.com.br/blog/o-que-e-bootstrap}
+}
+
+@misc{php2024,
+    author = {BrasilCloud},
+    title = {O que é PHP?},
+    year = {2024}, 
+    publisher = {BrasilCloud},
+    url = {https://brasilcloud.com.br/duvidas/o-que-e-o-php/}
+}
+
+@misc{andrade2020,
+    author = {Andrade, Ana Paula de},
+    title = {Principais aplicações para gerenciamento de banco de dados com interface gráfica},
+    year = {2020},
+    publisher = {Treinaweb},
+    url = {https://www.treinaweb.com.br/blog/principais-aplicacoes-para-gerenciamento-de-banco-de-dados-com-interface-grafica}
+}
+
+@misc{methaseo2023,
+    author = {Methaseo},
+    title = {O que é: XAMPP (Cross-Platform, Apache, MySQL, PHP, and Perl)},
+    year = {2023},
+    publisher = {Methaseo},
+    url = {https://methaseo.com.br/glossario/o-que-e-xampp-cross-platform-apache-mysql-php-and-perl/}
+}
+
+@misc{souza2022,
+    author = {Souza, Fábio},
+    title = {O que são sistemas embarcados?},
+    year = {2022},
+    publisher = {Embarcados},
+    url = {https://embarcados.com.br/o-que-sao-sistemas-embarcados/}
+}
+
+@misc{thomsen2023,
+    author = {Thomsen, Adilson},
+    title = {O que é Arduino, para que serve e primeiros passos},
+    year = {2023},
+    publisher = {MakerHero},
+    url = {https://www.makerhero.com/blog/o-que-e-arduino/}
+}
+
+@misc{mensagem2023,
+    author = {Mensagem, Meios},
+    title = {Algoritmo de recomendação: o que é e como ele contribui para as estratégias personalizadas},
+    year = {2023},
+    publisher = {meio {\&} mensagem},
+    url = {https://www.meioemensagem.com.br/proxxima/pxx-noticias/algoritmo-de-recomendacao}
+}

@@ -1,0 +1,64 @@
+%%%% fatec-article.tex, 2024/03/10
+
+%% Classe de documento
+\documentclass[
+  a4paper,%% Tamanho de papel: a4paper, letterpaper (^), etc.
+  12pt,%% Tamanho de fonte: 10pt (^), 11pt, 12pt, etc.
+  english,%% Idioma secundário (penúltimo) (>)
+  brazilian,%% Idioma primário (último) (>)
+]{article}
+
+\usepackage{pdflscape}
+\usepackage[]{fatec-article}
+\Author{1}{Name={Queiroz.I\\ Kusaka.J \\ Abrahão.M\\ Rodrigues.T\\ Roder.V}}
+
+\Author{2}{Name={\{ isabele.queiroz@fatec.sp.gov.br \}\\ \{ joao.kusaka@fatec.sp.gov.br \} \\ \{ matheus.abrahao@fatec.sp.gov.br\} \\ \{ tiago.rodrigues39@fatec.sp.gov.br \} \\ \{victor.roder@fatec.sp.gov.br \}}}
+
+\Keyword{1}{Carcinicultura}{Shrimp Farming}
+\Keyword{2}{Monitoramento}{Monitoring}
+\Keyword{3}{Sustentável}{Sustainability}
+
+\begin{Abstract}[brazilian]
+  No cenário mundial, a carcinicultura é uma atividade de grande importância econômica e ambiental, com o Brasil se destacando como um dos principais produtores de camarão, especialmente no Nordeste. No entanto, a criação de camarões enfrenta desafios significativos, como a má gestão dos tanques, que pode causar poluição da água, proliferação de doenças e baixa qualidade dos camarões. Para superar esses desafios e se alinhar com os Objetivos de Desenvolvimento Sustentável (ODS) 12 e 14, propõe-se um sistema de monitoramento 24 horas para cativeiros de camarões, utilizando arduínos e Inteligência Artificial (IA). Este sistema monitora parâmetros essenciais da água, como temperatura, pH e níveis de amônia, além de automatizar a alimentação dos camarões e armazenar dados para análises futuras. A plataforma web permitirá que os usuários visualizem dados de cada cativeiro, gerenciem informações e automatizem a alimentação, contribuindo para uma produção mais sustentável e eficiente. Com os resultados apresentados, este sistema tem como promessa se tornar um sistema de alta qualidade para os carcinicultores.
+
+\end{Abstract}
+
+\begin{Abstract}[english]
+In the global scenario, shrimp farming stands out as an economically and environmentally significant activity, with Brazil emerging as one of the major producers, particularly in the Northeast region. However, shrimp cultivation encounters significant challenges, such as poor tank management leading to water pollution, disease outbreaks, and compromised shrimp quality. To address these challenges and align with Sustainable Development Goals (SDGs) 12 and 14, a 24-hour monitoring system for shrimp farms is proposed, leveraging Arduinos and Artificial Intelligence (AI). This system monitors crucial water parameters like temperature, pH, and ammonia levels, automates shrimp feeding, and stores data for future analysis. The associated web platform enables users to visualize farm data, manage information, and automate feeding, thereby fostering more sustainable and efficient production practices. With the presented results, this system holds the promise of becoming a high-quality solution for shrimp farmers.
+\end{Abstract}
+
+
+\makeindex
+
+
+\addbibresource{fatec-article.bib}
+
+\begin{document}
+
+\section*{Introdução}%
+\label{sect:intro}
+\input{Topicos/introducao}
+
+\section*{OBJETIVO} \label{sect:obj}
+
+\input{Topicos/objetivo}
+
+\section*{ESTADO DA ARTE} \label{sect:estadoarte}
+
+\input{Topicos/estadodaarte}
+
+\section*{METODOLOGIA} \label{sect:metodologia}
+
+\input{Topicos/metodologia}
+
+\section*{RESULTADOS PRELIMINARES}\label{sect:resultados}
+
+\input{Topicos/resultados}
+
+\section*{CONCLUSÃO}\label{sect:conclusao}
+
+\input{Topicos/conclusao}
+
+\printbibliography
+
+\end{document}

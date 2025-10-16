@@ -1,0 +1,352 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bertini2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fdb80a977564becb8f835296bffcf13b}{%
+           family={Bertini},
+           familyi={B\bibinitperiod},
+           given={Giovana},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9932947c27ed767316a98bb13b04113}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Maria\bibnamedelima Maschio},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aeb5bdaf5e64ee93b780e77e0950862}{%
+           family={Izumi},
+           familyi={I\bibinitperiod},
+           given={Kelly\bibnamedelima Kanae},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff54eee85305cbaea750557f6f9057cf}{%
+           family={Izumi},
+           familyi={I\bibinitperiod},
+           given={Karyna\bibnamedelima Satomi},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{fullhash}{48da7d5b5d44d4444e3458d96174e6d9}
+      \strng{bibnamehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{authorbibnamehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{authornamehash}{5af9bd6b412b55b6c36bf7375f2d5272}
+      \strng{authorfullhash}{48da7d5b5d44d4444e3458d96174e6d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Manguezais, Camarões-de-Água-Doce e Manjuba-de-Iguape: Patrimônios Natural e Cultural do Vale do Ribeira e Litoral Sul do Estado de São Paulo}
+      \field{title}{Camarões-de-Água-Doce do Vale do Ribeira: Riqueza, Importância Ecológica e Econômica}
+      \field{year}{2021}
+      \field{pages}{71\bibrangedash 72}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb www.registro.unesp.br/Home/pesquisa5012/e-book_-manguezais_camaroes_manjuba_2021v090321.pdf
+      \endverb
+      \verb{url}
+      \verb www.registro.unesp.br/Home/pesquisa5012/e-book_-manguezais_camaroes_manjuba_2021v090321.pdf
+      \endverb
+    \endentry
+    \entry{dantas2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25b429bfe31c3b810697f0b9b5fbc4dc}{%
+           family={Dantas},
+           familyi={D\bibinitperiod},
+           given={Matheus\bibnamedelimb Fernandes\bibnamedelimb do\bibnamedelima Nascimento},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Quixadá, CE}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Federal do Ceará - Campus de Quixadá}%
+      }
+      \strng{namehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{fullhash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{bibnamehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authorbibnamehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authornamehash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \strng{authorfullhash}{25b429bfe31c3b810697f0b9b5fbc4dc}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Um sistema de telemonitoramento e automação baseado em rede LoRa para criação de camarão}
+      \field{year}{2020}
+      \field{pages}{16\bibrangedash 48}
+      \range{pages}{33}
+      \verb{urlraw}
+      \verb http://www.repositorio.ufc.br/handle/riufc/61231
+      \endverb
+      \verb{url}
+      \verb http://www.repositorio.ufc.br/handle/riufc/61231
+      \endverb
+    \endentry
+    \entry{Rocha2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=8ae722ecd409cb5e8d73cee3bd906762}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Diego\bibnamedelima Maia},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Aquaculture Brasil}%
+      }
+      \strng{namehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{fullhash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{bibnamehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authorbibnamehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authornamehash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \strng{authorfullhash}{8ae722ecd409cb5e8d73cee3bd906762}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Produção, Mercado e Promoção do consumo de camarão: Por que aumenta, dia a dia, a necessidade de entendermos um pouco mais sobre o que anda acontecendo com cada um desses temas?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.aquaculturebrasil.com/coluna/369/producao,-mercado-e-promocao-do-consumo-de-camarao:-por-que-aumenta,-dia-a-dia,-a-necessidade-de-entendermos-um-pouco-mais-sobre-o-que-anda-acontecendo-com-cada-um-desses-temas
+      \endverb
+      \verb{url}
+      \verb https://www.aquaculturebrasil.com/coluna/369/producao,-mercado-e-promocao-do-consumo-de-camarao:-por-que-aumenta,-dia-a-dia,-a-necessidade-de-entendermos-um-pouco-mais-sobre-o-que-anda-acontecendo-com-cada-um-desses-temas
+      \endverb
+    \endentry
+    \entry{Rocha2024}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=90c1e46ced2eb5aa9e7d22849c0d81b0}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Feed {\&} Food}%
+      }
+      \strng{namehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{fullhash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{bibnamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorbibnamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authornamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorfullhash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carcinicultura marinha: uma análise da produção em 2023}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023
+      \endverb
+      \verb{url}
+      \verb feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023
+      \endverb
+    \endentry
+    \entry{ODS12}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a833af89fed621637337e6d208d39e0}{%
+           family={{The Global Goals}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{fullhash}{4a833af89fed621637337e6d208d39e0}
+      \strng{bibnamehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authorbibnamehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authornamehash}{4a833af89fed621637337e6d208d39e0}
+      \strng{authorfullhash}{4a833af89fed621637337e6d208d39e0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Disponível em: \url{https://www.globalgoals.org/goals/12-responsible-consumption-and-production/}}
+      \field{title}{The 17 Goals}
+    \endentry
+    \entry{Uddin2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=52a1d2439e8e1a2b99e94cf362cd595f}{%
+           family={Uddin},
+           familyi={U\bibinitperiod},
+           given={Mohammad\bibnamedelima Salah},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1aad09bb27580bb47342431d7786f4a7}{%
+           family={Fatin\bibnamedelima Istiaq},
+           familyi={F\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Md.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51c39cfa0553fce158e3830b97ce784e}{%
+           family={Rasadin},
+           familyi={R\bibinitperiod},
+           given={Mohd.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d96d3dde431a0b10360dea3f5dfb422b}{%
+           family={Ruhel\bibnamedelima Talukder},
+           familyi={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Md.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{fullhash}{ad054c173c271adf0c80d77dc258875b}
+      \strng{bibnamehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{authorbibnamehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{authornamehash}{1efabdf3e20a5449c4fe11f52715182d}
+      \strng{authorfullhash}{ad054c173c271adf0c80d77dc258875b}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering Reports}
+      \field{number}{7}
+      \field{title}{Freshwater shrimp farm monitoring system for Bangladesh based on internet of things}
+      \field{volume}{2}
+      \field{year}{2020}
+      \field{pages}{2\bibrangedash 12}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://doi.org/10.1002/eng2.12184
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/eng2.12184
+      \endverb
+    \endentry
+    \entry{Ximenes2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a233b1a2720f958b83e7a0d1317ab16a}{%
+           family={Ximenes},
+           familyi={X\bibinitperiod},
+           given={Luciano\bibnamedelima Feijão},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6583a8557c9ebb4b3241727268981849}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={Maria\bibnamedelimb de\bibnamedelima Fátima},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Banco do Nordeste}%
+      }
+      \strng{namehash}{08972b8064a667c95daf383683b81cba}
+      \strng{fullhash}{08972b8064a667c95daf383683b81cba}
+      \strng{bibnamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorbibnamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authornamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorfullhash}{08972b8064a667c95daf383683b81cba}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carcinicultura}
+      \field{year}{2023}
+      \field{pages}{3\bibrangedash 4}
+      \range{pages}{2}
+    \endentry
+    \entry{Zainuddin2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=77adbccb8a9fc5270d6fa02137ddfd98}{%
+           family={Zainuddin},
+           familyi={Z\bibinitperiod},
+           given={Zaryanti},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be007857c49272d4e78ea78c349b4b64}{%
+           family={Idris},
+           familyi={I\bibinitperiod},
+           given={Riswan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d435ced60e7272d6a88743a2cefc6d2c}{%
+           family={Azis},
+           familyi={A\bibinitperiod},
+           given={Asmawaty},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Atlantis Press}%
+      }
+      \strng{namehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{fullhash}{b89504434a36cb31c4154401c29c341e}
+      \strng{bibnamehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authorbibnamehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authornamehash}{b89504434a36cb31c4154401c29c341e}
+      \strng{authorfullhash}{b89504434a36cb31c4154401c29c341e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the First International Conference on Materials Engineering and Management - Engineering Section (ICMEMe 2018)}
+      \field{isbn}{978-94-6252-679-2}
+      \field{title}{Water Quality Monitoring System for Vannamae Shrimp Cultivation Based on Wireless Sensor Network In Taipa, Mappakasunggu District, Takalar}
+      \field{year}{2019}
+      \field{pages}{89\bibrangedash 92}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://doi.org/10.2991/icmeme-18.2019.20
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2991/icmeme-18.2019.20
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Aceleradora2023}
+  \missing{andrade2020}
+  \missing{ariane2022}
+  \missing{awari2023}
+  \missing{biava2017}
+  \missing{carlos2023}
+  \missing{ebac2023}
+  \missing{longen2023}
+  \missing{lopes2023}
+  \missing{mensagem2023}
+  \missing{methaseo2023}
+  \missing{oracle2024}
+  \missing{php2024}
+  \missing{souza2022}
+  \missing{thomsen2023}
+\endrefsection
+\endinput
+
