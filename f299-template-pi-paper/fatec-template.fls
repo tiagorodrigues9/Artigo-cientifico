@@ -449,7 +449,6 @@ INPUT .\Topicos\metodologia.tex
 INPUT .\Topicos\metodologia.tex
 INPUT .\Topicos\metodologia.tex
 INPUT Topicos\metodologia.tex
-INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbo10.tfm
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
@@ -467,8 +466,6 @@ INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss9.pfb
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss9.pfb
-INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbo10.pfb
-INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbo10.pfb
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.5)  4 OCT 2025 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.5)  20 OCT 2025 00:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1328,17 +1328,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[3{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (Topicos/metodologia.tex
+[3{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (Topicos/metodologia.tex)
 
 [4]
-LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 13.
-
-
-[5]
-
-[6]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 66.
+Package cleveref Info: loaded `brazilian' language definitions on input line 52.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 52.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1346,27 +1340,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-
-[7]
-Overfull \hbox (65.8714pt too wide) in paragraph at lines 205--205
-[]    \T1/lmtt/m/n/12 float voltage = tempValue * (3.3 / 4095.0);  // ESP32 usa 3.3V e resolução de 12 bits[] 
- []
-
-
-
-[8]
-
-[9])
-
-[10]
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
 Package cleveref Info: loaded `brazilian' language definitions on input line 52.
 Package cleveref Info: loaded `brazilian' language definitions on input line 52.
 Package cleveref Info: loaded `brazilian' language definitions on input line 52.
@@ -1380,41 +1353,7 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 52.
 Package cleveref Info: loaded `brazilian' language definitions on input line 52.
 
 
-[11]
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-
-
-[12]
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-Package cleveref Info: loaded `brazilian' language definitions on input line 52.
-
-
-[13] (fatec-template.aux
+[5] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 11.
 Package cleveref Info: loaded `brazilian' language definitions on input line 12.
 Package cleveref Info: loaded `brazilian' language definitions on input line 13.
@@ -1424,75 +1363,41 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 16.
 Package cleveref Info: loaded `brazilian' language definitions on input line 17.
 Package cleveref Info: loaded `english' language definitions on input line 18.
 Package cleveref Info: loaded `brazilian' language definitions on input line 19.
-Package cleveref Info: loaded `brazilian' language definitions on input line 108.
-Package cleveref Info: loaded `brazilian' language definitions on input line 109.
-Package cleveref Info: loaded `brazilian' language definitions on input line 111.
-Package cleveref Info: loaded `brazilian' language definitions on input line 112.
-Package cleveref Info: loaded `brazilian' language definitions on input line 114.
-Package cleveref Info: loaded `brazilian' language definitions on input line 115.
-Package cleveref Info: loaded `brazilian' language definitions on input line 117.
-Package cleveref Info: loaded `brazilian' language definitions on input line 118.
-Package cleveref Info: loaded `brazilian' language definitions on input line 120.
-Package cleveref Info: loaded `brazilian' language definitions on input line 121.
-Package cleveref Info: loaded `brazilian' language definitions on input line 123.
-Package cleveref Info: loaded `brazilian' language definitions on input line 124.
-Package cleveref Info: loaded `brazilian' language definitions on input line 126.
-Package cleveref Info: loaded `brazilian' language definitions on input line 127.
-Package cleveref Info: loaded `brazilian' language definitions on input line 129.
-Package cleveref Info: loaded `brazilian' language definitions on input line 130.
-Package cleveref Info: loaded `brazilian' language definitions on input line 132.
-Package cleveref Info: loaded `brazilian' language definitions on input line 133.
-Package cleveref Info: loaded `brazilian' language definitions on input line 135.
-Package cleveref Info: loaded `brazilian' language definitions on input line 136.
-Package cleveref Info: loaded `brazilian' language definitions on input line 138.
-Package cleveref Info: loaded `brazilian' language definitions on input line 139.
-Package cleveref Info: loaded `brazilian' language definitions on input line 141.
-Package cleveref Info: loaded `brazilian' language definitions on input line 142.
-Package cleveref Info: loaded `brazilian' language definitions on input line 144.
-Package cleveref Info: loaded `brazilian' language definitions on input line 145.
-Package cleveref Info: loaded `brazilian' language definitions on input line 147.
-Package cleveref Info: loaded `brazilian' language definitions on input line 148.
-Package cleveref Info: loaded `brazilian' language definitions on input line 150.
-Package cleveref Info: loaded `brazilian' language definitions on input line 151.
-Package cleveref Info: loaded `brazilian' language definitions on input line 153.
-Package cleveref Info: loaded `brazilian' language definitions on input line 154.
-Package cleveref Info: loaded `brazilian' language definitions on input line 156.
-Package cleveref Info: loaded `brazilian' language definitions on input line 157.
-Package cleveref Info: loaded `brazilian' language definitions on input line 159.
-Package cleveref Info: loaded `brazilian' language definitions on input line 160.
-Package cleveref Info: loaded `brazilian' language definitions on input line 162.
-Package cleveref Info: loaded `brazilian' language definitions on input line 163.
-Package cleveref Info: loaded `brazilian' language definitions on input line 165.
-Package cleveref Info: loaded `brazilian' language definitions on input line 166.
-Package cleveref Info: loaded `brazilian' language definitions on input line 168.
-Package cleveref Info: loaded `brazilian' language definitions on input line 169.
-Package cleveref Info: loaded `brazilian' language definitions on input line 171.
-Package cleveref Info: loaded `brazilian' language definitions on input line 172.
-Package cleveref Info: loaded `brazilian' language definitions on input line 174.
-Package cleveref Info: loaded `brazilian' language definitions on input line 175.
+Package cleveref Info: loaded `brazilian' language definitions on input line 57.
+Package cleveref Info: loaded `brazilian' language definitions on input line 58.
+Package cleveref Info: loaded `brazilian' language definitions on input line 60.
+Package cleveref Info: loaded `brazilian' language definitions on input line 61.
+Package cleveref Info: loaded `brazilian' language definitions on input line 63.
+Package cleveref Info: loaded `brazilian' language definitions on input line 64.
+Package cleveref Info: loaded `brazilian' language definitions on input line 66.
+Package cleveref Info: loaded `brazilian' language definitions on input line 67.
+Package cleveref Info: loaded `brazilian' language definitions on input line 69.
+Package cleveref Info: loaded `brazilian' language definitions on input line 70.
+Package cleveref Info: loaded `brazilian' language definitions on input line 72.
+Package cleveref Info: loaded `brazilian' language definitions on input line 73.
 )
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: BD5B50F1812AC6FBEF55203BE6F0694A;236.
+(rerunfilecheck)             Checksum: 1A7F779C07759338DE5E3B221E2C4198;235.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35178 strings out of 473523
- 638572 string characters out of 5714631
- 1651116 words of memory out of 5000000
- 57718 multiletter control sequences out of 15000+600000
- 611740 words of font info for 149 fonts, out of 8000000 for 9000
+ 35036 strings out of 473523
+ 635066 string characters out of 5714631
+ 1636963 words of memory out of 5000000
+ 57627 multiletter control sequences out of 15000+600000
+ 607871 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,19n,131p,1833b,4564s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on fatec-template.pdf (13 pages, 292506 bytes).
+<C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on fatec-template.pdf (5 pages, 211759 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 27670 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 25622 words of extra memory for PDF output out of 29859 (max. 10000000)
 

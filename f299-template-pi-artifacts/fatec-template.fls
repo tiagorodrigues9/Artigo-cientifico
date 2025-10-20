@@ -419,13 +419,13 @@ INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 OUTPUT fatec-template.toc
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT .\Imagem\Caso de Uso.png
-INPUT .\Imagem\Caso de Uso.png
-INPUT .\Imagem\Caso de Uso.png
-INPUT .\Imagem\Caso de Uso.png
-INPUT .\Imagem\Caso de Uso.png
-INPUT .\Imagem\Caso de Uso.png
-INPUT .\Imagem\Caso de Uso.png
+INPUT .\Imagem\Caso de Uso.jpg
+INPUT .\Imagem\Caso de Uso.jpg
+INPUT .\Imagem\Caso de Uso.jpg
+INPUT .\Imagem\Caso de Uso.jpg
+INPUT .\Imagem\Caso de Uso.jpg
+INPUT .\Imagem\Caso de Uso.jpg
+INPUT .\Imagem\Caso de Uso.jpg
 INPUT .\Imagem\Diagramas de Classe.jpg
 INPUT .\Imagem\Diagramas de Classe.jpg
 INPUT .\Imagem\Diagramas de Classe.jpg
@@ -459,13 +459,13 @@ INPUT .\Imagem\Canvas.png
 INPUT .\Imagem\Canvas.png
 INPUT .\Imagem\Canvas.png
 INPUT .\Imagem\Canvas.png
-INPUT .\Imagem\Modelo Conceitual.jpeg
-INPUT .\Imagem\Modelo Conceitual.jpeg
-INPUT .\Imagem\Modelo Conceitual.jpeg
-INPUT .\Imagem\Modelo Conceitual.jpeg
-INPUT .\Imagem\Modelo Conceitual.jpeg
-INPUT .\Imagem\Modelo Conceitual.jpeg
-INPUT .\Imagem\Modelo Conceitual.jpeg
+INPUT .\Imagem\Modelo Conceitual.png
+INPUT .\Imagem\Modelo Conceitual.png
+INPUT .\Imagem\Modelo Conceitual.png
+INPUT .\Imagem\Modelo Conceitual.png
+INPUT .\Imagem\Modelo Conceitual.png
+INPUT .\Imagem\Modelo Conceitual.png
+INPUT .\Imagem\Modelo Conceitual.png
 INPUT .\Imagem\Modelo Lógico.png
 INPUT .\Imagem\Modelo Lógico.png
 INPUT .\Imagem\Modelo Lógico.png
@@ -473,13 +473,6 @@ INPUT .\Imagem\Modelo Lógico.png
 INPUT .\Imagem\Modelo Lógico.png
 INPUT .\Imagem\Modelo Lógico.png
 INPUT .\Imagem\Modelo Lógico.png
-INPUT .\Imagem\Modelo Físico.jpg
-INPUT .\Imagem\Modelo Físico.jpg
-INPUT .\Imagem\Modelo Físico.jpg
-INPUT .\Imagem\Modelo Físico.jpg
-INPUT .\Imagem\Modelo Físico.jpg
-INPUT .\Imagem\Modelo Físico.jpg
-INPUT .\Imagem\Modelo Físico.jpg
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
