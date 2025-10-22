@@ -31,9 +31,9 @@
     \subsection*{\textbf{Diagrama de Caso de Uso}}
     \addcontentsline{toc}{section}{Diagrama de Caso de Uso}
 
-    O Diagrama de Caso de Uso foi desenvolvido para demonstrar as funcionalidades do sistema. O Carcinicultor irá fornecer ao Sistema suas informações para realizar o cadastro/login e o sistema deverá fornecer a tela inicial. Dentro do sistema, o carcinicultor deverá editar dados referentes ao tanque e do sítio em que estão os tanques. Além disso, o sistema fornecerá ao carcinicultor o relatório geral e individual de cada um dos tanques que irá contar com temperatura, pH e amônia.
+    O Diagrama de Caso de Uso foi desenvolvido para demonstrar as funcionalidades que cada ator possui no sistema. O dono/funcionário irá fornecer ao sistema suas informações para realizar o cadastro/login e o sistema deverá fornecer a tela inicial. Dentro do sistema, o dono poderá visualizar as informações sobre os cativeiros de maneira geral ou individual, aceitar solicitações enviadas pelo funcionário e utilizar o chat para conversar com a equipe sobre problemas.
 
-    Enquanto o carcinicultor utilizar o sistema, ele receberá notificações a respeito dos tanques e dos camarões, verificar informações o sítio e de seu perfil.
+    Enquanto o dono/funcionário utilizar o sistema, ele receberá notificações a respeito dos tanques e dos camarões, verificar informações a fazenda e de seu perfil. 
 
 \begin{figure}[!h]
 \centering
@@ -45,22 +45,26 @@
 
     \newpage
     
-    Os equipamentos de monitoramento irão transmitir os dados de cada sensor e receberão comandos. O dispensador de ração irá receber o comando para liberar a ração para os camarões
+    Os equipamentos de monitoramento irão transmitir os dados de cada sensor e receberão comandos. O dispensador de ração irá receber o comando para liberar a ração para os camarões.
 
     \newpage
 
     \subsection*{\textbf{Diagrama de Classe}}
     \addcontentsline{toc}{section}{Diagrama de Classe}
 
-O diagrama de classes define a estrutura e os relacionamentos necessários para monitorar e otimizar as condições de criação de camarões. Ele inclui classes e associações projetadas para gerenciar dietas, parâmetros ambientais, tipos de camarão e sensores, garantindo operações eficientes e integradas.
+O diagrama de classes apresentado no PDF define a estrutura e os relacionamentos essenciais para o monitoramento e a gestão de cativeiros de camarões, visando otimizar as condições de criação. Ele contempla classes que representam os diferentes componentes do sistema, suas responsabilidades e as associações necessárias para uma operação integrada.
 
-Entre as principais classes, Tipos\_camarao categoriza espécies de camarões por meio de um identificador único e um nome. Dietas gerencia as alimentações ideais para cada espécie, enquanto Condições\_ideais define parâmetros ambientais recomendados, como temperatura, pH e amônia, associados a cada tipo de camarão. Parâmetros\_atuais registra as condições ambientais em tempo real de cada cativeiro, e Especif\_camarao conecta condições ideais às dietas recomendadas. Já Cativeiros representa as instalações de criação, relacionando aos tipos de camarão e armazenando dados como médias diárias de temperatura e pH.
+Entre as principais classes, TiposCamaroes identifica as espécies de camarões disponíveis, possibilitando categorizar diferentes tipos por meio de um identificador único e nome. CondicoesIdeais associa os tipos de camarões às condições ambientais ideais, como temperatura, pH e amônia, garantindo recomendações específicas para cada espécie. EspecifCamarao conecta uma espécie de camarão às suas Dietas e Condições Ideais, detalhando especificações específicas.
 
-O sistema também inclui classes como Alimentação, que documenta horários e detalhes nutricionais, vinculando as dietas aos cativeiros. Sítios registra informações sobre locais onde estão os cativeiros, enquanto Sensores monitoram dados ambientais e estão associados aos cativeiros. Usuários gerenciam o sistema por meio de autenticação e dados pessoais, e os relatórios individuais e gerais detalham os desempenhos dos cativeiros com base nos dados coletados.
+Cativeiros representa os espaços de criação, contendo informações como nome, data de instalação, foto, e as médias diárias de temperatura, pH e amônia, além de estar associados aos tipos de camarões por meio de uma relação de muitos para um fk\_id\_tiposCamaroes. Cada cativeiro também pode ser monitorado por sensores, que são gerenciados pela classe Sensores associados aos cativeiros via a classe SensoresXCativeiros, permitindo a captura de dados ambientais em tempo real.
 
-Os relacionamentos são fundamentais no sistema. Por exemplo, cada cativeiro está associado a um único tipo de camarão, enquanto um tipo de camarão pode estar ligado a vários cativeiros. Os Parâmetros\_atuais monitoram condições específicas de cativeiros, e a alimentação é registrada de forma vinculada a dietas e cativeiros específicos. Além disso, Sítios podem agregar múltiplos cativeiros, enquanto os sensores mapeiam as condições de cativeiros individuais. Usuários gerenciam sítios específicos e recebem notificações com recomendações baseadas nos dados monitorados.
+A classe ParametrosAtuais registra os parâmetros ambientais atuais de cada cativeiro, facilitando o monitoramento em tempo real dos dados de temperatura, pH e amônia. Os SensoresXCativeiros gerenciam a associação dos sensores aos cativeiros, garantindo uma coleta de dados precisa.
+ 
+Além disso, classes como Fazendas e Sítios fornecem a infraestrutura física, podendo ter múltiplos cativeiros associados, enquanto classes de gerenciamento de usuários, como Users, cuidam do acesso ao sistema, incluindo funções de autenticação, gerenciamento de perfis e envio de notificações por email ou push.
 
-O uso de multiplicidade (como 1..*, 0..1) garante a flexibilidade e consistência dos relacionamentos, permitindo que o sistema opere de forma robusta e organizada. Este diagrama reflete um design completo, garantindo o monitoramento eficiente das condições ambientais, o controle das dietas e o gerenciamento dos cativeiros de camarões.
+As associações demonstram relacionamentos específicos: cada cativeiro está vinculado a um único tipo de camarão, mas uma espécie pode estar presente em múltiplos cativeiros; as dietas podem ser aplicadas a vários cativeiros ao longo do tempo; sensores monitoram condições específicas de cada cativeiro; e os pedidos de requisições gerenciam solicitações de usuários, incluindo aprovações e ações vinculadas ao sistema.
+
+As multiplicidades (como 1..*, 0..1) reforçam a flexibilidade do sistema, possibilitando uma gestão robusta, com múltiplas dietas, sensores e cativeiros relacionados de forma consistente. Dessa forma, o sistema permite não apenas o monitoramento contínuo das condições ambientais, mas também a gestão eficiente das operações de criação de camarões, integrando dados, condições e ações em uma estrutura clara.
 
     \begin{figure}[!h]
         \centering

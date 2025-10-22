@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  22 OCT 2025 12:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  22 OCT 2025 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1325,10 +1325,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Imagem/diagrama de classe.jpeg, id=75, 1888.1742pt x 1416.492pt>
 File: Imagem/diagrama de classe.jpeg Graphic file (type jpg)
 <use Imagem/diagrama de classe.jpeg>
-Package pdftex.def Info: Imagem/diagrama de classe.jpeg  used on input line 69.
+Package pdftex.def Info: Imagem/diagrama de classe.jpeg  used on input line 73.
 (pdftex.def)             Requested size: 532.0695pt x 399.14389pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 69--70
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
@@ -1338,7 +1338,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [5]
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 80.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 84.
  (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1352,7 +1352,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 <Imagem/diagrama de objeto.jpeg, id=86, 1282.7925pt x 892.0527pt>
 File: Imagem/diagrama de objeto.jpeg Graphic file (type jpg)
 <use Imagem/diagrama de objeto.jpeg>
-Package pdftex.def Info: Imagem/diagrama de objeto.jpeg  used on input line 90.
+Package pdftex.def Info: Imagem/diagrama de objeto.jpeg  used on input line 94.
 (pdftex.def)             Requested size: 483.69687pt x 336.3565pt.
 
 
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: Imagem/diagrama de objeto.jpeg  used on input line 90.
 <Imagem/Diagrama de Redes.png, id=93, 1650.165pt x 2330.7075pt>
 File: Imagem/Diagrama de Redes.png Graphic file (type png)
 <use Imagem/Diagrama de Redes.png>
-Package pdftex.def Info: Imagem/Diagrama de Redes.png  used on input line 110.
+Package pdftex.def Info: Imagem/Diagrama de Redes.png  used on input line 114.
 (pdftex.def)             Requested size: 290.22107pt x 409.90706pt.
 
 
@@ -1368,7 +1368,7 @@ Package pdftex.def Info: Imagem/Diagrama de Redes.png  used on input line 110.
 <Imagem/Canvas.png, id=101, 813.0375pt x 853.68938pt>
 File: Imagem/Canvas.png Graphic file (type png)
 <use Imagem/Canvas.png>
-Package pdftex.def Info: Imagem/Canvas.png  used on input line 128.
+Package pdftex.def Info: Imagem/Canvas.png  used on input line 132.
 (pdftex.def)             Requested size: 312.00119pt x 327.59676pt.
 
 
@@ -1378,10 +1378,10 @@ Package pdftex.def Info: Imagem/Canvas.png  used on input line 128.
 <Imagem/Modelo Conceitual.png, id=112, 1810.765pt x 1403.2425pt>
 File: Imagem/Modelo Conceitual.png Graphic file (type png)
 <use Imagem/Modelo Conceitual.png>
-Package pdftex.def Info: Imagem/Modelo Conceitual.png  used on input line 155.
+Package pdftex.def Info: Imagem/Modelo Conceitual.png  used on input line 159.
 (pdftex.def)             Requested size: 539.80766pt x 418.32094pt.
 
-Overfull \hbox (56.1108pt too wide) in paragraph at lines 155--156
+Overfull \hbox (56.1108pt too wide) in paragraph at lines 159--160
 [][] 
  []
 
@@ -1391,17 +1391,17 @@ Overfull \hbox (56.1108pt too wide) in paragraph at lines 155--156
 <Imagem/Modelo logico.jpeg, id=119, 971.3088pt x 596.9502pt>
 File: Imagem/Modelo logico.jpeg Graphic file (type jpg)
 <use Imagem/Modelo logico.jpeg>
-Package pdftex.def Info: Imagem/Modelo logico.jpeg  used on input line 164.
+Package pdftex.def Info: Imagem/Modelo logico.jpeg  used on input line 168.
 (pdftex.def)             Requested size: 522.3935pt x 321.06398pt.
 
-Overfull \hbox (38.69662pt too wide) in paragraph at lines 164--165
+Overfull \hbox (38.69662pt too wide) in paragraph at lines 168--169
 [][] 
  []
 
 
 
 [12 <./Imagem/Modelo logico.jpeg>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 197.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 201.
  (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1410,14 +1410,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (10.30338pt too wide) in paragraph at lines 225--225
+Overfull \hbox (10.30338pt too wide) in paragraph at lines 229--229
 []        \T1/lmtt/m/n/12 if (left[leftIndex].id_tipo_sensor > right[rightIndex].id_tipo_sensor) {[] 
  []
 
 
 
 [13{C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
-Overfull \hbox (41.17839pt too wide) in paragraph at lines 271--271
+Overfull \hbox (41.17839pt too wide) in paragraph at lines 275--275
 []    \T1/lmtt/m/n/12 esquerda[indice_esquerda].id_tipo_sensor > direita[indice_direita].id_tipo_sensor[] 
  []
 
@@ -1427,33 +1427,33 @@ Overfull \hbox (41.17839pt too wide) in paragraph at lines 271--271
 <Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=140, 845.0471pt x 597.50829pt>
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf  used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf  used on input line 281.
 (pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
 <Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=142, page=2, 845.0471pt x 597.50829pt>
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 281.
 (pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 
 
 [15]
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 
 
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 [16
 
@@ -1461,17 +1461,17 @@ Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cati
 <Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=168, page=3, 845.0471pt x 597.50829pt>
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 3>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 3>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 
 
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 3>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 [17
 
@@ -1479,17 +1479,17 @@ Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cati
 <Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=173, page=4, 845.0471pt x 597.50829pt>
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 4>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 4>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 
 
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 4>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 [18
 
@@ -1497,17 +1497,17 @@ Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cati
 <Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=178, page=5, 845.0471pt x 597.50829pt>
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 5>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 5>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 
 
 File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
 <use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 5>
-Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 277.
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 281.
 (pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
 [19
 
@@ -1529,15 +1529,15 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34721 strings out of 468080
- 631371 string characters out of 5425283
+ 34727 strings out of 468080
+ 631439 string characters out of 5425283
  1629369 words of memory out of 5000000
  62785 multiletter control sequences out of 15000+600000
- 676200 words of font info for 133 fonts, out of 8000000 for 9000
+ 676548 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,17n,131p,1762b,4538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on fatec-template.pdf (19 pages, 5721435 bytes).
+Output written on fatec-template.pdf (19 pages, 5721841 bytes).
 PDF statistics:
  237 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
