@@ -29,11 +29,7 @@
     Nesta seção serão apresentados os diagramas da UML utilizados para a modelagem do sistema desenvolvido. Dentre os diagramas utilizados, pode-se citar: Diagrama de Caso de Uso e Diagrama de Redes.
     
     \subsection*{\textbf{Diagrama de Caso de Uso}}
-    \addcontentsline{toc}{section}{Diagrama de Caso de Uso}
-
-    O Diagrama de Caso de Uso foi desenvolvido para demonstrar as funcionalidades que cada ator possui no sistema. O dono/funcionário irá fornecer ao sistema suas informações para realizar o cadastro/login e o sistema deverá fornecer a tela inicial. Dentro do sistema, o dono poderá visualizar as informações sobre os cativeiros de maneira geral ou individual, aceitar solicitações enviadas pelo funcionário e utilizar o chat para conversar com a equipe sobre problemas.
-
-    Enquanto o dono/funcionário utilizar o sistema, ele receberá notificações a respeito dos tanques e dos camarões, verificar informações a fazenda e de seu perfil. 
+    \addcontentsline{toc}{section}{Diagrama de Caso de Uso} 
 
 \begin{figure}[!h]
 \centering
@@ -43,16 +39,15 @@
 \SourceOrNote{Autoria Própria}
 \end{figure}
 
-    \newpage
-    
-    Os equipamentos de monitoramento irão transmitir os dados de cada sensor e receberão comandos. O dispensador de ração irá receber o comando para liberar a ração para os camarões.
+O Diagrama de Caso de Uso foi desenvolvido para demonstrar as funcionalidades que cada ator possui no sistema. O dono/funcionário irá fornecer ao sistema suas informações para realizar o cadastro/login e o sistema deverá fornecer a tela inicial. Dentro do sistema, o dono poderá visualizar as informações sobre os cativeiros de maneira geral ou individual, aceitar solicitações enviadas pelo funcionário e utilizar o chat para conversar com a equipe sobre problemas.
 
-    \newpage
+Enquanto o dono/funcionário utilizar o sistema, ele receberá notificações a respeito dos tanques e dos camarões, verificar informações a fazenda e de seu perfil.
+Os equipamentos de monitoramento irão transmitir os dados de cada sensor e receberão comandos. O dispensador de ração irá receber o comando para liberar a ração para os camarões.
 
     \subsection*{\textbf{Diagrama de Classe}}
     \addcontentsline{toc}{section}{Diagrama de Classe}
 
-O diagrama de classes apresentado no PDF define a estrutura e os relacionamentos essenciais para o monitoramento e a gestão de cativeiros de camarões, visando otimizar as condições de criação. Ele contempla classes que representam os diferentes componentes do sistema, suas responsabilidades e as associações necessárias para uma operação integrada.
+O diagrama de classes define a estrutura e os relacionamentos essenciais para o monitoramento e a gestão de cativeiros de camarões, visando otimizar as condições de criação. Ele contempla classes que representam os diferentes componentes do sistema, suas responsabilidades e as associações necessárias para uma operação integrada.
 
 Entre as principais classes, TiposCamaroes identifica as espécies de camarões disponíveis, possibilitando categorizar diferentes tipos por meio de um identificador único e nome. CondicoesIdeais associa os tipos de camarões às condições ambientais ideais, como temperatura, pH e amônia, garantindo recomendações específicas para cada espécie. EspecifCamarao conecta uma espécie de camarão às suas Dietas e Condições Ideais, detalhando especificações específicas.
 
@@ -79,13 +74,21 @@ As multiplicidades (como 1..*, 0..1) reforçam a flexibilidade do sistema, possi
     \subsection*{\textbf{Diagrama de Objetos}}
     \addcontentsline{toc}{section}{Diagrama de Objetos}
 
-O diagrama de objetos apresenta uma visão prática do sistema de gerenciamento de cativeiros, demonstrando as instâncias específicas das classes e os valores associados em um momento determinado. Ele detalha o estado de cada entidade e suas interações, facilitando a compreensão da configuração atual. 
+O diagrama de objetos apresenta uma visão prática do sistema de gerenciamento de cativeiros de camarões, mostrando instâncias concretas das classes e os valores associados em um momento específico. Ele representa o estado atual de cada entidade do sistema, suas relações e atributos, permitindo compreender de forma clara a configuração operacional.
 
-Entre os objetos principais, temos o Sensor1, que monitora parâmetros ambientais como temperatura, pH e amônia, categorizado por TipoSensor1, que descreve seu tipo, como "Sensor de Temperatura". Esses dados são registrados em ParametrosAtuais1, com valores como temperatura de 26,8°C, pH de 8,3 e amônia de 0,02. O Cativeiro1 armazena informações detalhadas sobre o local onde os camarões, como o "Camarão Tigre" descrito por TipoCamarao1, são criados, incluindo médias diárias de parâmetros ambientais e dados de instalação. Esse cativeiro faz parte do Sitio1, chamado "Sítio de Camarões Atlântico", localizado em Registro, Brasil, que é gerenciado por um usuário, como João Pescador, representado pelo Usuario1. 
+Entre os objetos principais, temos o Cativeiro1, identificado como “Cativeiro principal”, que pertence ao usuário souzaMarcos09 e está associado ao tipo de camarão Rosa. Esse cativeiro registra médias diárias de temperatura (24,9°C), pH (6,2) e amônia (0,2), e está vinculado a sensores e parâmetros ambientais monitorados continuamente.
 
-O sistema também gerencia atividades como Alimentação1, associada a uma dieta específica (Dieta1), como "Dieta Balanceada com Proteína Alta", projetada para otimizar o crescimento dos camarões. CondicoesIdeais1 define os parâmetros ambientais ideais, enquanto RelatorioGeral1 e RelatorioIndividual1 registram informações detalhadas sobre os cativeiros, fornecendo uma visão ampla ou específica para análise e gestão. Recomendacoes1 oferece sugestões práticas, como ajustes na temperatura da água, baseadas nos dados coletados. Notificação1 alerta os usuários sobre situações críticas, garantindo uma resposta rápida para manter as condições ideais. 
+O Sensor1, apelidado de “Temp01”, está relacionado ao tipo de sensor “Sensor de temperatura” (TiposSensor1), e seus dados são armazenados em ParametrosAtuais1, com registros como temperatura atual de 25,4°C, pH 6,4 e amônia 0,1. Esses dados permitem avaliar se as condições do cativeiro estão próximas das CondiçõesIdeais1, que definem temperatura ideal de 25,4°C, pH ideal de 6,5 e amônia de 0,1.
 
-O diagrama demonstra como os sensores coletam dados que, integrados ao sistema, geram relatórios, notificações e recomendações para o manejo eficiente dos cativeiros, promovendo o bem-estar dos camarões criados. Ele destaca a importância das associações entre os objetos para garantir que todas as atividades e parâmetros sejam monitorados e ajustados de forma precisa.
+A Dieta1, descrita como “Dieta à base de alface”, é aplicada ao cativeiro por meio da relação DietasXCativeiros1, com início de vigência em 01/10/2025 e término em 10/01/2026, sendo registrada como ativa. Essa integração garante o controle alimentar dos camarões conforme o tipo e estágio de cultivo.
+
+O sistema também gerencia as fazendas envolvidas na criação, como a Fazenda1, denominada “Fazenda do Marcos”, localizada na Rua Alameda Imigrantes, bairro Jardim Caiçara, cidade de Registro, com número 126. Essa fazenda é associada tanto ao usuário souzaMarcos09 quanto ao cativeiro em questão, estabelecendo o vínculo entre infraestrutura e operação.
+
+O usuário souzaMarcos09, com papel de Admin, possui configurações personalizadas de e-mail (EmailSettings1) e notificações push (PushSubscription1), garantindo o recebimento de alertas e atualizações automáticas sobre o estado dos cativeiros. Ele também participa de conversas e mensagens no sistema, demonstradas pelos objetos Conversation1 e Message1, que armazenam interações como “Olá, tudo bem?”, com registro de leitura.
+
+Além disso, o sistema gerencia solicitações administrativas por meio do objeto Request1, que representa um pedido de alteração no nome do cativeiro, feito pelo usuário souzaMarcos09 e com status “Em espera”, reforçando o controle de aprovação entre papéis como “Dono” e “Admin”.
+
+Em conjunto, o diagrama evidencia como os objetos se inter-relacionam para permitir um controle inteligente e integrado da criação de camarões. Sensores coletam dados ambientais, dietas são aplicadas de forma planejada, e o sistema fornece notificações e registros de comunicação entre usuários e fazendas. Essa integração assegura o monitoramento eficiente das condições de cultivo e o bem-estar dos camarões.
 
     \begin{figure}[!h]
         \centering
@@ -143,11 +146,17 @@ Foi realizada uma análise completa e incluído os possíveis dados.
 
 A modelagem conceitual e lógica demonstra a funcionalidade do programa e do que será aplicado no banco de dados. A visão gráfica do banco de dados se demonstra algo fundamental, por conta que proporciona o máximo de detalhes com extrema clareza, apresentando as relações entre as entidades.
 
-No modelo conceitual, a entidade Cativeiros representa os tanques, com dados como data\_instalacao e temp\_media\_diaria. Ela está associada a Tipos\_camarao, que define a espécie criada, e a Condições\_ideais, que especifica parâmetros recomendados, como temp\_ideal e ph\_ideal.
+No modelo conceitual, a entidade Cativeiros representa os tanques de criação, registrando informações essenciais sobre o ambiente de cultivo, como data de instalação, temperatura média diária, pH médio diário e amônia média diária. Cada cativeiro está associado a um Tipo de Camarão, definido na entidade TiposCamarao, que identifica a espécie cultivada, e a CondiçõesIdeais, responsável por armazenar os parâmetros ambientais recomendados, incluindo temperatura ideal, pH ideal e amônia ideal, servindo como referência para avaliação das condições reais do ambiente.
 
-Sensores, registrados em Sensores, monitoram os cativeiros, coletando dados armazenados em Parametros\_atuais, como temp\_atual e ph\_atual. A alimentação é controlada por Dietas e eventos específicos registrados em Alimentacao. Cativeiros estão localizados em Sitos, com atributos como nome e localizacao, e geram relatórios gerais em Relatorio\_geral.
+O monitoramento é realizado por meio da entidade Sensores, que registra dispositivos responsáveis pela coleta de dados em tempo real, como temperatura, pH e níveis de amônia. Cada sensor está associado a um tipo específico, definido na entidade TiposSensor, e suas medições são registradas em ParametrosAtuais, com atributos como dataHora, temperatura atual, pH atual e amônia atual. Essa estrutura possibilita a comparação contínua entre valores medidos e parâmetros ideais, contribuindo para a manutenção das condições adequadas ao cultivo.
 
-Usuários, descritos em Usuarios, têm acesso aos dados dos cativeiros e recebem notificações e recomendações por meio das entidades Notificacoes e Recomendacoes. Os relacionamentos entre as entidades integram dados de sensores, alimentação, localização e usuários para garantir o controle eficiente do ambiente de criação.
+O controle nutricional é modelado pelas entidades Dietas e DietasXCativeiros, que definem as composições alimentares e seus períodos de aplicação. A entidade Dietas armazena dados como descrição, horário de alimentação e quantidade, enquanto DietasXCativeiros relaciona essas dietas aos respectivos tanques, incluindo informações sobre vigência, data de criação e atualização, permitindo um acompanhamento preciso da alimentação dos camarões ao longo do tempo.
+
+As Fazendas representam as unidades produtivas, contendo informações como nome, endereço, bairro, cidade, número e foto do local, e estão associadas a múltiplos cativeiros por meio da entidade FazendasXCativeiros. Essa relação reflete a organização física e operacional da produção aquícola, permitindo a integração de diversos tanques sob uma mesma gestão.
+
+A entidade Users descreve os usuários do sistema, armazenando dados como nome, e-mail, senha, função (role) e foto de perfil. Os usuários podem estar vinculados a uma ou mais fazendas por meio da entidade UsuariosXFazendas, e possuem configurações adicionais em EmailSettings e PushSubscription, que definem preferências de notificação, frequência de alertas e dispositivos de recebimento. Além disso, as entidades Conversation e Message possibilitam a comunicação interna entre usuários, registrando interações e mensagens trocadas no sistema.
+
+O modelo também contempla a entidade Request, responsável por gerenciar solicitações administrativas, como alterações de nome de cativeiro ou permissões de acesso, com controle de aprovação, papéis de solicitante e aprovador, e status das requisições.
 
 No modelo lógico, é apresentado uma representação mais concreta do banco de dados, demonstrando as tabelas, entidades, chaves primárias e estrangeiras e seus relacionamentos.
 

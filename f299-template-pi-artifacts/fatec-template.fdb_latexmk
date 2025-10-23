@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1761161541.19905 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761161730.00477 0
-  "fatec-template.bcf" 1761161728 113655 15dae3cd1f42b900626071d0d281a50e "pdflatex"
+["biber fatec-template"] 1761161541.19905 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761242121.75554 0
+  "fatec-template.bcf" 1761242119 113655 15dae3cd1f42b900626071d0d281a50e "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1761161716.89418 "c:/Users/Keilla/Desktop/Artigo-cientifico/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761161730.0114 0
-  "C:/Users/Keilla/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761139030 122199 f0a029dcadf437d1491ad2875c164ac4 ""
+["pdflatex"] 1761242110.13386 "c:/Users/Keilla/Desktop/Artigo-cientifico/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761242121.77843 0
+  "C:/Users/Keilla/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761235334 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/Keilla/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761138463 13322148 a4304c16eed77e5dd2ac4fd45bce66dc ""
   "C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc" 1256929440 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -203,19 +203,19 @@
   "Imagem/Canvas.png" 1760987398 401368 2f01c06eda062ceba22bff2faead412b ""
   "Imagem/Caso de Uso.jpg" 1761132502 497193 9faeb1fae1217eb2eeddf020428d1b66 ""
   "Imagem/Diagrama de Redes.png" 1761132502 723090 efb2fc916580891355eddb48f0f885a2 ""
-  "Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf" 1761132502 150205 de77344db6b2f9d5635159429ddd7d82 ""
+  "Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf" 1761235564 150159 4828385eea65ff6fda36943432cd861e ""
   "Imagem/Modelo Conceitual.png" 1761132502 163904 c792e46dec46d0fac8388717c8494988 ""
   "Imagem/Modelo logico.jpeg" 1761148005 607952 68d73a560aa7a282d2603869a2c5ee35 ""
   "Imagem/diagrama de classe.jpeg" 1761147199 2328704 ff24fa74c34f05c4bc19934728874c65 ""
   "Imagem/diagrama de objeto.jpeg" 1761147640 972140 53d7daaf69d51605a9701d96b9c422d6 ""
-  "c:/Users/Keilla/Desktop/Artigo-cientifico/f299-template-pi-artifacts/fatec-template.tex" 1761161702 16557 fc6979b3b2b19b6d326d45944e77c4a2 ""
+  "c:/Users/Keilla/Desktop/Artigo-cientifico/f299-template-pi-artifacts/fatec-template.tex" 1761242108 19243 6dd29ef932beeae41df786113672b861 ""
   "fatec-article.sty" 1761132503 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
-  "fatec-template.aux" 1761161728 3707 ee6cb101934758f9d84dca5da350283b "pdflatex"
+  "fatec-template.aux" 1761242119 3706 c2ebe5f156e2a4ee2053861b5ecb286d "pdflatex"
   "fatec-template.bbl" 1761161550 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1761161728 1701 573cb4d492e17c2b84b6a476bee3e530 "pdflatex"
-  "fatec-template.run.xml" 1761161728 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
-  "fatec-template.tex" 1761161702 16557 fc6979b3b2b19b6d326d45944e77c4a2 ""
-  "fatec-template.toc" 1761161728 765 3b539f3c29c43685c81d531a021aabf6 "pdflatex"
+  "fatec-template.out" 1761242119 1701 573cb4d492e17c2b84b6a476bee3e530 "pdflatex"
+  "fatec-template.run.xml" 1761242119 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
+  "fatec-template.tex" 1761242108 19243 6dd29ef932beeae41df786113672b861 ""
+  "fatec-template.toc" 1761242119 764 2c4b5e44c32a8389b8adf87c9bc010c1 "pdflatex"
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"
