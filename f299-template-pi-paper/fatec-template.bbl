@@ -114,12 +114,12 @@
     \endentry
     \entry{Rocha2023}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ae722ecd409cb5e8d73cee3bd906762}{%
+        {{un=1,uniquepart=given,hash=8ae722ecd409cb5e8d73cee3bd906762}{%
            family={Rocha},
            familyi={R\bibinitperiod},
            given={Diego\bibnamedelima Maia},
            giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \list{publisher}{1}{%
         {Aquaculture Brasil}%
@@ -147,31 +147,39 @@
       \verb https://www.aquaculturebrasil.com/coluna/369/producao,-mercado-e-promocao-do-consumo-de-camarao:-por-que-aumenta,-dia-a-dia,-a-necessidade-de-entendermos-um-pouco-mais-sobre-o-que-anda-acontecendo-com-cada-um-desses-temas
       \endverb
     \endentry
-    \entry{ODS12}{article}{}{}
+    \entry{Rocha2024}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a833af89fed621637337e6d208d39e0}{%
-           family={{The Global Goals}},
-           familyi={T\bibinitperiod}}}%
+        {{un=1,uniquepart=given,hash=90c1e46ced2eb5aa9e7d22849c0d81b0}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Itamar},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
       }
-      \strng{namehash}{4a833af89fed621637337e6d208d39e0}
-      \strng{fullhash}{4a833af89fed621637337e6d208d39e0}
-      \strng{fullhashraw}{4a833af89fed621637337e6d208d39e0}
-      \strng{bibnamehash}{4a833af89fed621637337e6d208d39e0}
-      \strng{authorbibnamehash}{4a833af89fed621637337e6d208d39e0}
-      \strng{authornamehash}{4a833af89fed621637337e6d208d39e0}
-      \strng{authorfullhash}{4a833af89fed621637337e6d208d39e0}
-      \strng{authorfullhashraw}{4a833af89fed621637337e6d208d39e0}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
+      \list{publisher}{1}{%
+        {Feed {\&} Food}%
+      }
+      \strng{namehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{fullhash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{fullhashraw}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{bibnamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorbibnamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authornamehash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorfullhash}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \strng{authorfullhashraw}{90c1e46ced2eb5aa9e7d22849c0d81b0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The 17 Goals}
+      \field{title}{Carcinicultura marinha: uma análise da produção em 2023}
+      \field{year}{2024}
       \verb{urlraw}
-      \verb https://www.globalgoals.org/goals/12-responsible-consumption-and-production/
+      \verb feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023
       \endverb
       \verb{url}
-      \verb https://www.globalgoals.org/goals/12-responsible-consumption-and-production/
+      \verb feedfood.com.br/carcinicultura-marinha-uma-analise-da-producao-em-2023
       \endverb
     \endentry
     \entry{Uddin2020}{article}{}{}
@@ -227,6 +235,49 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1002/eng2.12184
+      \endverb
+    \endentry
+    \entry{Ximenes2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a233b1a2720f958b83e7a0d1317ab16a}{%
+           family={Ximenes},
+           familyi={X\bibinitperiod},
+           given={Luciano\bibnamedelima Feijão},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6583a8557c9ebb4b3241727268981849}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={Maria\bibnamedelimb de\bibnamedelima Fátima},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Banco do Nordeste}%
+      }
+      \strng{namehash}{08972b8064a667c95daf383683b81cba}
+      \strng{fullhash}{08972b8064a667c95daf383683b81cba}
+      \strng{fullhashraw}{08972b8064a667c95daf383683b81cba}
+      \strng{bibnamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorbibnamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authornamehash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorfullhash}{08972b8064a667c95daf383683b81cba}
+      \strng{authorfullhashraw}{08972b8064a667c95daf383683b81cba}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Carcinicultura}
+      \field{year}{2023}
+      \field{pages}{3\bibrangedash 4}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://www.bnb.gov.br/s482-dspace/bitstream/123456789/1736/4/2023_CDS_274.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bnb.gov.br/s482-dspace/bitstream/123456789/1736/4/2023_CDS_274.pdf
       \endverb
     \endentry
     \entry{Zainuddin2019}{article}{}{}
