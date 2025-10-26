@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber fatec-template"] 1761436975.48499 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761438602.40899 0
-  "fatec-template.bcf" 1761438602 113655 15dae3cd1f42b900626071d0d281a50e "pdflatex"
+["biber fatec-template"] 1761436975.48499 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761439696.13304 0
+  "fatec-template.bcf" 1761439695 113655 15dae3cd1f42b900626071d0d281a50e "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1761438597.57871 "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761438602.40962 0
+["pdflatex"] 1761439690.93954 "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761439696.13362 0
   "C:/Users/tr364/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761435484 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/tr364/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761435442 13321623 7d573735b4e8d266c676b7a556b58df6 ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -208,16 +208,17 @@
   "Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf" 1761434171 150159 4828385eea65ff6fda36943432cd861e ""
   "Imagem/Modelo Conceitual.png" 1760931103 163904 c792e46dec46d0fac8388717c8494988 ""
   "Imagem/Modelo logico.jpeg" 1761434171 607952 68d73a560aa7a282d2603869a2c5ee35 ""
+  "Imagem/analise swot.jpg" 1761437775 117418 c6330303aba73a41704a5284ea772830 ""
   "Imagem/diagrama de classe.jpeg" 1761434171 2328704 ff24fa74c34f05c4bc19934728874c65 ""
   "Imagem/diagrama de objeto.jpeg" 1761434171 972140 53d7daaf69d51605a9701d96b9c422d6 ""
-  "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-artifacts/fatec-template.tex" 1761438596 32473 8efdec4b30465b8cfaa0e92aaf6c8eff ""
+  "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-artifacts/fatec-template.tex" 1761439690 32710 7830f2ef319f8adf18cec90736a5c8f0 ""
   "fatec-article.sty" 1760580111 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
-  "fatec-template.aux" 1761438602 3904 630df8a0201d7c9184feac24340a7966 "pdflatex"
+  "fatec-template.aux" 1761439695 4039 9bfb4b6d39e8aa54f05b4f4607b2f887 "pdflatex"
   "fatec-template.bbl" 1761436978 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1761438602 1933 39d368bfa63a00b60caea5de2f8e12e2 "pdflatex"
-  "fatec-template.run.xml" 1761438602 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
-  "fatec-template.tex" 1761438596 32473 8efdec4b30465b8cfaa0e92aaf6c8eff ""
-  "fatec-template.toc" 1761438602 880 e204dd3bbc0e582aba490d1bd1dcd3b1 "pdflatex"
+  "fatec-template.out" 1761439695 1933 aacc8edb3e9b7d19e393dc27ddfa4834 "pdflatex"
+  "fatec-template.run.xml" 1761439695 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
+  "fatec-template.tex" 1761439690 32710 7830f2ef319f8adf18cec90736a5c8f0 ""
+  "fatec-template.toc" 1761439695 880 4182108e3a88d38a76919d31d36c5f13 "pdflatex"
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"
