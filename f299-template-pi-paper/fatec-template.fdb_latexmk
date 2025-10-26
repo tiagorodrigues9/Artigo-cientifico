@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1761438796.28404 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761491462.53445 0
+["biber fatec-template"] 1761438796.28404 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761491548.90367 0
   "fatec-article.bib" 1761434171 3028 6bfab8318d087988a533c636915533f8 ""
-  "fatec-template.bcf" 1761491462 114679 5b369a786248cf3a7c98b6b4468fdbb5 "pdflatex"
+  "fatec-template.bcf" 1761491548 114679 5b369a786248cf3a7c98b6b4468fdbb5 "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1761491458.94728 "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761491462.53503 0
+["pdflatex"] 1761491545.55476 "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761491548.9043 0
   "C:/Users/tr364/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761435484 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/tr364/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761435442 13321623 7d573735b4e8d266c676b7a556b58df6 ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -189,15 +189,15 @@
   "Imagem/Fluxograma.jpeg" 1761434171 43057 cc49b696f1e30da127cae0eace051b08 ""
   "Logos/fatec.jpg" 1760580111 52462 b72184f489d14cab2f4098401c2496e6 ""
   "Topicos/estadodaarte.tex" 1761434171 4110 21906423f70a79d10b977259367c7b62 ""
-  "Topicos/introducao.tex" 1761491458 3151 c1644b8dbbc02baf42e82efc08726492 ""
+  "Topicos/introducao.tex" 1761491542 3032 4187a1ccd5be7d8bfa2702dfec48e17d ""
   "Topicos/metodologia.tex" 1761434171 2835 e8a12d8ece06784426c5fd6e9f88440f ""
   "Topicos/objetivo.tex" 1761434171 1243 cf1ad41492ea4fc368282e543e4d4e9a ""
   "c:/Users/tr364/Desktop/Programação/LaTex/f299-template-pi-paper/fatec-template.tex" 1761434544 3560 fa01263aae995282cf0294dbd59e26ee ""
   "fatec-article.sty" 1760580111 46715 b9329945a720a992fddb04ea12e55d99 ""
-  "fatec-template.aux" 1761491461 3642 13f5f0cd721795efdc8e52fc7813fa07 "pdflatex"
+  "fatec-template.aux" 1761491548 3642 13f5f0cd721795efdc8e52fc7813fa07 "pdflatex"
   "fatec-template.bbl" 1761438798 14838 271a5ea63a18a14b6782cdcdf223e706 "biber fatec-template"
-  "fatec-template.out" 1761491462 235 c5648499c75cca4213f421c6c95ec68f "pdflatex"
-  "fatec-template.run.xml" 1761491462 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
+  "fatec-template.out" 1761491548 235 c5648499c75cca4213f421c6c95ec68f "pdflatex"
+  "fatec-template.run.xml" 1761491548 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
   "fatec-template.tex" 1761434544 3560 fa01263aae995282cf0294dbd59e26ee ""
   (generated)
   "fatec-template.aux"
