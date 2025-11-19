@@ -1177,4 +1177,460 @@ Package biblatex Info: ... file 'brazil.lbx' found.
 File: brazil.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
- (C:\Users\Keilla\AppData\Local\
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)))))
+Package biblatex Info: Trying to load language 'english' -> 'english-abnt'...
+Package biblatex Info: ... file 'english-abnt.lbx' found.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\english-abnt.lbx
+File: english-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `fatec-template.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'fatec-template.bbl' found.
+ (fatec-template.bbl)
+Package biblatex Info: Reference section=0 on input line 12.
+Package biblatex Info: Reference segment=0 on input line 12.
+Package hyperref Info: Link coloring ON on input line 12.
+ (fatec-template.out) (fatec-template.out)
+\@outlinefile=\write4
+\openout4 = `fatec-template.out'.
+
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PDF@Keywords' on input line 12.
+
+Package cleveref Info: loaded `brazilian' language definitions on input line 12.
+Package cleveref Info: loaded `brazilian' language definitions on input line 12.
+Package cleveref Info: loaded `english' language definitions on input line 12.
+Package cleveref Info: loaded `brazilian' language definitions on input line 12.
+
+
+[1
+
+{C:/Users/Keilla/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] (fatec-template.toc
+Package cleveref Info: loaded `brazilian' language definitions on input line 1.
+Package cleveref Info: loaded `brazilian' language definitions on input line 2.
+Package cleveref Info: loaded `brazilian' language definitions on input line 3.
+Package cleveref Info: loaded `english' language definitions on input line 4.
+Package cleveref Info: loaded `brazilian' language definitions on input line 5.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 7.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `minntx' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 7.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 7.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 7.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.8pt on input line 7.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 7.
+)
+\tf@toc=\write5
+\openout5 = `fatec-template.toc'.
+
+
+
+[2]
+<Imagem/Caso de Uso.jpg, id=79, 477.9456pt x 609.9588pt>
+File: Imagem/Caso de Uso.jpg Graphic file (type jpg)
+<use Imagem/Caso de Uso.jpg>
+Package pdftex.def Info: Imagem/Caso de Uso.jpg  used on input line 38.
+(pdftex.def)             Requested size: 386.95897pt x 493.84056pt.
+
+
+[3 <./Imagem/Caso de Uso.jpg>]
+<Imagem/diagrama de classe.jpeg, id=86, 1888.1742pt x 1416.492pt>
+File: Imagem/diagrama de classe.jpeg Graphic file (type jpg)
+<use Imagem/diagrama de classe.jpeg>
+Package pdftex.def Info: Imagem/diagrama de classe.jpeg  used on input line 68.
+(pdftex.def)             Requested size: 532.0695pt x 399.14389pt.
+
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 68--69
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[4]
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 79.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+[5{C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./Imagem/diagrama de classe.jpeg>]
+<Imagem/diagrama de objeto.jpeg, id=97, 1282.7925pt x 892.0527pt>
+File: Imagem/diagrama de objeto.jpeg Graphic file (type jpg)
+<use Imagem/diagrama de objeto.jpeg>
+Package pdftex.def Info: Imagem/diagrama de objeto.jpeg  used on input line 97.
+(pdftex.def)             Requested size: 483.69687pt x 336.3565pt.
+
+
+[6 <./Imagem/diagrama de objeto.jpeg>]
+<Imagem/Diagrama de Redes.png, id=103, 1650.165pt x 2330.7075pt>
+File: Imagem/Diagrama de Redes.png Graphic file (type png)
+<use Imagem/Diagrama de Redes.png>
+Package pdftex.def Info: Imagem/Diagrama de Redes.png  used on input line 117.
+(pdftex.def)             Requested size: 290.22107pt x 409.90706pt.
+
+
+[7 <./Imagem/Diagrama de Redes.png>]
+<Imagem/Canvas.png, id=112, 813.0375pt x 853.68938pt>
+File: Imagem/Canvas.png Graphic file (type png)
+<use Imagem/Canvas.png>
+Package pdftex.def Info: Imagem/Canvas.png  used on input line 135.
+(pdftex.def)             Requested size: 312.00119pt x 327.59676pt.
+
+
+[8 <./Imagem/Canvas.png>]
+
+[9]
+<Imagem/Modelo Conceitual.png, id=123, 1810.765pt x 1403.2425pt>
+File: Imagem/Modelo Conceitual.png Graphic file (type png)
+<use Imagem/Modelo Conceitual.png>
+Package pdftex.def Info: Imagem/Modelo Conceitual.png  used on input line 168.
+(pdftex.def)             Requested size: 539.80766pt x 418.32094pt.
+
+Overfull \hbox (56.1108pt too wide) in paragraph at lines 168--169
+[][] 
+ []
+
+
+
+[10 <./Imagem/Modelo Conceitual.png>]
+<Imagem/Modelo logico.jpeg, id=130, 971.3088pt x 596.9502pt>
+File: Imagem/Modelo logico.jpeg Graphic file (type jpg)
+<use Imagem/Modelo logico.jpeg>
+Package pdftex.def Info: Imagem/Modelo logico.jpeg  used on input line 177.
+(pdftex.def)             Requested size: 522.3935pt x 321.06398pt.
+
+Overfull \hbox (38.69662pt too wide) in paragraph at lines 177--178
+[][] 
+ []
+
+
+
+[11 <./Imagem/Modelo logico.jpeg>]
+<Imagem/modelo caixa.png, id=136, 550.62857pt x 412.97144pt>
+File: Imagem/modelo caixa.png Graphic file (type png)
+<use Imagem/modelo caixa.png>
+Package pdftex.def Info: Imagem/modelo caixa.png  used on input line 194.
+(pdftex.def)             Requested size: 417.91373pt x 313.43304pt.
+
+
+[12 <./Imagem/modelo caixa.png>]
+<Imagem/modelo tampa.png, id=143, 550.62857pt x 412.97144pt>
+File: Imagem/modelo tampa.png Graphic file (type png)
+<use Imagem/modelo tampa.png>
+Package pdftex.def Info: Imagem/modelo tampa.png  used on input line 203.
+(pdftex.def)             Requested size: 417.91373pt x 313.43304pt.
+<Imagem/modelo parafuso.png, id=144, 403.5075pt x 377.91188pt>
+File: Imagem/modelo parafuso.png Graphic file (type png)
+<use Imagem/modelo parafuso.png>
+Package pdftex.def Info: Imagem/modelo parafuso.png  used on input line 210.
+(pdftex.def)             Requested size: 417.91373pt x 391.41023pt.
+
+
+[13 <./Imagem/modelo tampa.png>]
+
+[14{C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <./Imagem/modelo parafuso.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 240.
+ (C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (10.30338pt too wide) in paragraph at lines 268--268
+[]        \T1/lmtt/m/n/12 if (left[leftIndex].id_tipo_sensor > right[rightIndex].id_tipo_sensor) {[] 
+ []
+
+
+
+[15]
+Overfull \hbox (41.17839pt too wide) in paragraph at lines 314--314
+[]    \T1/lmtt/m/n/12 esquerda[indice_esquerda].id_tipo_sensor > direita[indice_direita].id_tipo_sensor[] 
+ []
+
+
+
+[16]
+
+[17]
+
+[18]
+Overfull \hbox (22.65338pt too wide) in paragraph at lines 698--698
+[]  \T1/lmtt/m/n/12 Serial.println("Digite: SET CATIVEIRO <ObjectId> para configurar (ou aguarde)");[] 
+ []
+
+
+Overfull \hbox (22.65338pt too wide) in paragraph at lines 698--698
+[]        \T1/lmtt/m/n/12 Serial.println("SET CATIVEIRO <ObjectId> - Configurar/alterar cativeiro");[] 
+ []
+
+
+
+[19]
+
+[20]
+Overfull \hbox (10.29637pt too wide) in paragraph at lines 698--698
+[]    \T1/lmtt/m/n/12 sprintf(dataAtual, "%04d-%02d-%02d", 1900 + timeinfo->tm_year, 1 + timeinfo-
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 698.
+(C:\Users\Keilla\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
+File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `texttrademark ' is missing
+(microtype)             in font `TS1/lmtt/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Overfull \hbox (10.30338pt too wide) in paragraph at lines 698--698
+[]    \T1/lmtt/m/n/12 enviarParametrosParaAPI(temperatureC, pH, amonia, cativeiroId, dataHoraISO);[] 
+ []
+
+
+Overfull \hbox (10.30338pt too wide) in paragraph at lines 698--698
+[]    \T1/lmtt/m/n/12 if (currentHour == horaAlvo && currentMinute == minutoAlvo && ultimaDataGiro[] 
+ []
+
+
+
+[21]
+
+[22]
+Overfull \hbox (47.3534pt too wide) in paragraph at lines 698--698
+[]        \T1/lmtt/m/n/12 if (doc.containsKey("horaAlimentacao") && doc["horaAlimentacao"] != nullptr) {[] 
+ []
+
+
+
+[23]
+Overfull \hbox (10.30338pt too wide) in paragraph at lines 698--698
+[]      \T1/lmtt/m/n/12 Serial.println("Erro descri��o: " + http.errorToString(httpResponseCode));[] 
+ []
+
+
+
+[24]
+
+[25]
+<Imagem/analise swot.jpg, id=211, 639.89063pt x 356.83313pt>
+File: Imagem/analise swot.jpg Graphic file (type jpg)
+<use Imagem/analise swot.jpg>
+Package pdftex.def Info: Imagem/analise swot.jpg  used on input line 710.
+(pdftex.def)             Requested size: 522.3935pt x 291.31462pt.
+
+Overfull \hbox (38.69662pt too wide) in paragraph at lines 710--711
+[][] 
+ []
+
+<Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=212, 845.0471pt x 597.50829pt>
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf  used on input line 717.
+(pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
+<Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=214, page=2, 845.0471pt x 597.50829pt>
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 717.
+(pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+
+
+[26 <./Imagem/analise swot.jpg>]
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+
+
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 2>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page2 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+[27
+
+ <./Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf>]
+<Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=241, page=3, 845.0471pt x 597.50829pt>
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 3>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 3>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+
+
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 3>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page3 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+[28
+
+ <./Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf>]
+<Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=246, page=4, 845.0471pt x 597.50829pt>
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 4>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 4>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+
+
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 4>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page4 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+[29
+
+ <./Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf>]
+<Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, id=251, page=5, 845.0471pt x 597.50829pt>
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 5>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 5>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+
+
+File: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf Graphic file (type pdf)
+<use Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf, page 5>
+Package pdftex.def Info: Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf , page5 used on input line 717.
+(pdftex.def)             Requested size: 597.53772pt x 422.50157pt.
+[30
+
+ <./Imagem/Diário de Bordo - Criação de Camarão em Cativeiro Com Monitoramento IOT Para Gastronomia.pdf>] (fatec-template.aux
+Package cleveref Info: loaded `brazilian' language definitions on input line 9.
+Package cleveref Info: loaded `brazilian' language definitions on input line 10.
+Package cleveref Info: loaded `brazilian' language definitions on input line 11.
+Package cleveref Info: loaded `english' language definitions on input line 12.
+Package cleveref Info: loaded `brazilian' language definitions on input line 13.
+)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+Package rerunfilecheck Info: File `fatec-template.out' has not changed.
+(rerunfilecheck)             Checksum: 48028A35B6DAAA6C29805CCB584F9DBC;2091.
+Package logreq Info: Writing requests to 'fatec-template.run.xml'.
+\openout1 = `fatec-template.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 34807 strings out of 468080
+ 633092 string characters out of 5425283
+ 1631369 words of memory out of 5000000
+ 62841 multiletter control sequences out of 15000+600000
+ 676970 words of font info for 138 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,17n,131p,1762b,4538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Keilla/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
+Output written on fatec-template.pdf (30 pages, 5915750 bytes).
+PDF statistics:
+ 314 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 23230 words of extra memory for PDF output out of 24883 (max. 10000000)
+

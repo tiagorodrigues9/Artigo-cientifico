@@ -37,21 +37,26 @@
 \headcommand {\beamer@framepages {8}{8}}
 \headcommand {\beamer@sectionpages {8}{8}}
 \headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\sectionentry {8}{Apresentação Prática}{9}{Apresentação Prática}{0}}
+\headcommand {\sectionentry {8}{Metodologia}{9}{Metodologia}{0}}
 \headcommand {\slideentry {8}{0}{1}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
 \headcommand {\beamer@sectionpages {9}{9}}
 \headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\sectionentry {9}{Resultados Preliminares}{10}{Resultados Preliminares}{0}}
+\headcommand {\sectionentry {9}{Apresentação Prática}{10}{Apresentação Prática}{0}}
 \headcommand {\slideentry {9}{0}{1}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
 \headcommand {\beamer@sectionpages {10}{10}}
 \headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\sectionentry {10}{Conclusão}{11}{Conclusão}{0}}
+\headcommand {\sectionentry {10}{Resultados Preliminares}{11}{Resultados Preliminares}{0}}
 \headcommand {\slideentry {10}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@partpages {1}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
 \headcommand {\beamer@sectionpages {11}{11}}
-\headcommand {\beamer@documentpages {11}}
-\headcommand {\gdef \inserttotalframenumber {11}}
+\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\sectionentry {11}{Conclusão}{12}{Conclusão}{0}}
+\headcommand {\slideentry {11}{0}{1}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@partpages {1}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\beamer@sectionpages {12}{12}}
+\headcommand {\beamer@documentpages {12}}
+\headcommand {\gdef \inserttotalframenumber {12}}
