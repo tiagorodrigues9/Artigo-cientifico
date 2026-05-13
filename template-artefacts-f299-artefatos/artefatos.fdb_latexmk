@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex artefatos"] 1778691264.35413 "artefatos.aux" "artefatos.bbl" "artefatos" 1778691315.05689 0
+["bibtex artefatos"] 1778691264.35413 "artefatos.aux" "artefatos.bbl" "artefatos" 1778693322.43762 0
   "./referencias.bib" 1778689411 1341 f739739f6bb39ec17aa18c6c15d31420 ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/bibtex/bib/abntex2/abntex2-options.bib" 1543103229 5396 4eb260dac60f150ae608d45252853090 ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/bibtex/bst/abntex2/abntex2-alf.bst" 1543103230 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "artefatos.aux" 1778691314 11752 e94ab620a8fe5f0d2cf7749d457c09ea "pdflatex"
+  "artefatos.aux" 1778693320 11752 e94ab620a8fe5f0d2cf7749d457c09ea "pdflatex"
   (generated)
   "artefatos.bbl"
   "artefatos.blg"
   (rewritten before read)
-["pdflatex"] 1778691310.74041 "c:/Users/tr364/Desktop/Programação/LaTex/template-artefacts-f299-artefatos/artefatos.tex" "artefatos.pdf" "artefatos" 1778691315.05759 0
+["pdflatex"] 1778693314.33349 "c:/Users/tr364/Desktop/Programação/LaTex/template-artefacts-f299-artefatos/artefatos.tex" "artefatos.pdf" "artefatos" 1778693322.43865 0
   "C:/Users/tr364/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778002475 123976 72b5a7d7975bba47276c9ad4e01a7673 ""
   "C:/Users/tr364/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1778002601 13350271 9e84cbe9d10603af44fc5e6a182242da ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -211,12 +211,12 @@
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1761901070 10374 2ffd4f27c7f90b8a300608069537743c ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/tr364/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "artefatos.aux" 1778691314 11752 e94ab620a8fe5f0d2cf7749d457c09ea "pdflatex"
+  "artefatos.aux" 1778693320 11752 e94ab620a8fe5f0d2cf7749d457c09ea "pdflatex"
   "artefatos.bbl" 1778691265 1553 dd830e0695c60d3842ce0d44812dbc8c "bibtex artefatos"
-  "artefatos.out" 1778691314 6025 2764f5269cb2fa0ca85cb5fe4fbda41d "pdflatex"
-  "artefatos.tex" 1778691308 29565 7b66dcde1f44c72501fa434d8f8beca0 ""
-  "artefatos.toc" 1778691314 2805 7a06e4794f2d8c1461a9cbebad80d84d "pdflatex"
-  "c:/Users/tr364/Desktop/Programação/LaTex/template-artefacts-f299-artefatos/artefatos.tex" 1778691308 29565 7b66dcde1f44c72501fa434d8f8beca0 ""
+  "artefatos.out" 1778693320 6025 2764f5269cb2fa0ca85cb5fe4fbda41d "pdflatex"
+  "artefatos.tex" 1778693314 29562 c3efad5b90b6ec889b73a443d481c980 ""
+  "artefatos.toc" 1778693320 2805 7a06e4794f2d8c1461a9cbebad80d84d "pdflatex"
+  "c:/Users/tr364/Desktop/Programação/LaTex/template-artefacts-f299-artefatos/artefatos.tex" 1778693314 29562 c3efad5b90b6ec889b73a443d481c980 ""
   "imgs/Website-Contato.png" 1778279226 114869 bd31cceae4ef954e0055b8962df4b494 ""
   "imgs/Website-Equipe.png" 1778286623 528796 a82862d44c8c6817e411d787b407b2bb ""
   "imgs/Website-Inicio.png" 1778278295 916514 6177694bf71ec8f203fabd09aea8cbc3 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.5)  13 MAY 2026 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.5)  13 MAY 2026 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -584,49 +584,57 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip72
-)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 84.
+) (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+ (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (HMM)
+ (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count342
+) 
+))
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 85.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count342
+\l__color_backend_stack_int=\count343
 ) (artigo.aux
 Package babel Info: 'portuguese' activates 'portuges' shorthands.
 (babel)             Reported on input line 9.
 )
 \openout1 = `artigo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count343
+\scratchcounter=\count344
 \scratchdimen=\dimen309
 \scratchbox=\box71
-\nofMPsegments=\count344
-\nofMParguments=\count345
+\nofMPsegments=\count345
+\nofMParguments=\count346
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count346
+\MPscratchCnt=\count347
 \MPscratchDim=\dimen310
-\MPnumerator=\count347
-\makeMPintoPDFobject=\count348
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
 \everyMPtoPDFconversion=\toks44
 ) (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -672,65 +680,69 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 84.
+Package hyperref Info: Link coloring OFF on input line 85.
 (artigo.out) (artigo.out)
 \@outlinefile=\write4
 \openout4 = `artigo.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 90.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 91.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 90.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 91.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 90.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 91.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 90.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 91.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 90.
+(Font)              <12> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 90.
+(Font)              <8> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 90.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+(Font)              <6> on input line 91.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 91.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 91.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 90.
+(Font)              <10> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 90.
+(Font)              <7> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 90.
-<imgs/base/fatec-rgt.png, id=54, 202.1151pt x 91.3011pt>
+(Font)              <5> on input line 91.
+<imgs/base/fatec-rgt.png, id=70, 202.1151pt x 91.3011pt>
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 105.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 106.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-<imgs/base/cps-logo.png, id=56, 63.1158pt x 42.3984pt>
+<imgs/base/cps-logo.png, id=72, 63.1158pt x 42.3984pt>
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 105.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 106.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-<imgs/base/governo-sp-secretaria-logo.png, id=57, 3144.74875pt x 557.08125pt>
+<imgs/base/governo-sp-secretaria-logo.png, id=73, 3144.74875pt x 557.08125pt>
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 105.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 106.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
  [1
 
 {C:/Users/tr364/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./imgs/base/fatec-rgt.png> <./imgs/base/cps-logo.png> <./imgs/base/governo-sp-secretaria-logo.png>]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 121.
+ (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
 Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 125.
@@ -743,133 +755,157 @@ File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 125.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 151.
- (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+ [2{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 152.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 153.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 152.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 153.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 152.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 153.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
  [3]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 163.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 161.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 163.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 161.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 163.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 161.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [4{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-<imgs/diagrama-iot-camarize.png, id=113, 1016.29688pt x 402.75468pt>
+ [4]
+<imgs/diagrama-iot-camarize.png, id=145, 1016.29688pt x 402.75468pt>
 File: imgs/diagrama-iot-camarize.png Graphic file (type png)
 <use imgs/diagrama-iot-camarize.png>
-Package pdftex.def Info: imgs/diagrama-iot-camarize.png  used on input line 170.
+Package pdftex.def Info: imgs/diagrama-iot-camarize.png  used on input line 175.
 (pdftex.def)             Requested size: 455.24411pt x 180.40828pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 178.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 179.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 178.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 179.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 178.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 179.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [5 <./imgs/diagrama-iot-camarize.png>]
-<imgs/fluxograma-camarize.png, id=121, 1399.47844pt x 627.09282pt>
+ [5]
+<imgs/fluxograma-camarize.png, id=153, 1399.47844pt x 627.09282pt>
 File: imgs/fluxograma-camarize.png Graphic file (type png)
 <use imgs/fluxograma-camarize.png>
-Package pdftex.def Info: imgs/fluxograma-camarize.png  used on input line 185.
+Package pdftex.def Info: imgs/fluxograma-camarize.png  used on input line 190.
 (pdftex.def)             Requested size: 455.24411pt x 203.98456pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 201.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 194.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 201.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 194.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 201.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 194.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [6 <./imgs/fluxograma-camarize.png>]
+ [6 <./imgs/diagrama-iot-camarize.png>]
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 206.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 206.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 206.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [7 <./imgs/fluxograma-camarize.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 231.
+(Font)              <10.95> on input line 245.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 236.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 248.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 236.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 248.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 236.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 248.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [7]
+ [8]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 252.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 261.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 252.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 261.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 252.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 261.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [8] (artigo.bbl)
+ [9] (artigo.bbl
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 258.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 34.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 258.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 34.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 258.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 34.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [9] (artigo.aux)
+ [10])
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 278.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 278.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 278.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [11] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(artigo.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `artigo.out' has not changed.
-(rerunfilecheck)             Checksum: E6F89A96EC8909ED725E3F8321547DA1;1713.
+(rerunfilecheck)             Checksum: 40A1C2615E2FB257A8E35302C3DC0CFA;2745.
  ) 
 Here is how much of TeX's memory you used:
- 24635 strings out of 467691
- 457810 string characters out of 5414988
- 863978 words of memory out of 5000000
- 53236 multiletter control sequences out of 15000+600000
+ 24743 strings out of 467691
+ 460530 string characters out of 5414988
+ 866681 words of memory out of 5000000
+ 53323 multiletter control sequences out of 15000+600000
  694611 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,19n,94p,1422b,869s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,19n,94p,1465b,985s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on artigo.pdf (9 pages, 923223 bytes).
+Output written on artigo.pdf (11 pages, 938144 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
