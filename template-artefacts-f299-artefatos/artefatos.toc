@@ -1,0 +1,31 @@
+\babel@toc {portuguese}{}\relax 
+\contentsline {section}{\numberline {1}CANVAS: Modelo de Negócio e Estratégia}{3}{section.1}%
+\contentsline {section}{\numberline {2}SWOT: Análise Estratégica}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Recomendações Estratégicas}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}UX/UI: Design de Interface e Experiência do Usuário}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Guia de Estilos}{5}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Website: Estrutura e Especificações Técnicas Web}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mapa do Site da Equipe}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Conteúdo das Páginas}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Screenshots do Website da Equipe}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Especificações Técnicas do Site da Equipe}{8}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Diagramas UML: Modelagem Visual do Sistema}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Diagrama de Casos de Uso}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Diagrama de Classes}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Diagrama de Sequência}{11}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Diagrama de Atividades}{11}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Diagrama de Componentes}{12}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Diagrama de Implantação}{13}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Diagrama de Estados}{13}{subsection.5.7}%
+\contentsline {section}{\numberline {6}DevOps: Infraestrutura, Automação e Entrega Contínua}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Pipeline CI/CD}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Configuração CI/CD}{15}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Infraestrutura como Código}{16}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Infraestrutura do Sistema}{16}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Arquitetura de Rede}{17}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Diagrama de Infraestrutura}{17}{subsubsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.5}Arquitetura de Deploy}{18}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Configuração Docker Compose (Desenvolvimento)}{19}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Monitoramento e Alertas}{19}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Métricas e SLA}{20}{subsection.6.8}%
+\contentsline {section}{Referências}{22}{subsection.6.8}%

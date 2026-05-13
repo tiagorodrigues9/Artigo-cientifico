@@ -1,0 +1,63 @@
+\documentclass[
+  a4paper,
+  12pt,
+  english,
+  brazilian,
+]{article}
+
+\usepackage{pdflscape}
+\usepackage{pdfpages}
+\usepackage[]{fatec-article}
+\Author{1}{Name={Davi Mathais\\ Leandro Augusto Muniz\\ Tiago de Lara Rodrigues }}
+
+\Author{2}{Name={\{ davi.almeida3@fatec.sp.gov.br \} \\ \{ leandro.muniz@fatec.sp.gov.br \} \\ \{ tiago.rodrigues39@fatec.sp.gov.br \}}}
+
+\Keyword{1}{Carcinicultura}{Shrimp Farming}
+\Keyword{2}{Monitoramento}{Monitoring}
+\Keyword{3}{Sustentabilidade}{Sustainability}
+\Keyword{4}{Internet das Coisas}{Internet of Things}
+
+\begin{Abstract}[brazilian]
+  A carcinicultura é uma atividade de grande relevância econômica e ambiental no Brasil, com destaque para o Nordeste, onde o país se posiciona entre os principais produtores de camarão. Entretanto, a criação enfrenta desafios significativos, como má gestão dos tanques, poluição e maior incidência de doenças, resultando em queda na qualidade do produto. Para mitigar esses problemas e promover práticas sustentáveis, propõe-se um sistema de monitoramento contínuo que integra Arduinos. O sistema acompanha parâmetros essenciais da água, incluindo temperatura, pH e níveis de amônia, e automatiza a alimentação dos camarões de maneira precisa e eficiente. Os dados coletados são armazenados para análises históricas, permitindo melhorias contínuas no manejo dos cativeiros. A plataforma web oferece aos usuários acesso em tempo real aos dados de cada tanque, além de funcionalidades para gerenciamento das informações e controle automatizado da alimentação, garantindo maior comodidade e precisão operacional. Com esses recursos, o sistema busca não apenas aumentar a eficiência produtiva, mas também reduzir impactos ambientais, promovendo uma carcinicultura mais responsável e sustentável.
+
+\end{Abstract}
+
+\begin{Abstract}[english]
+  Shrimp farming is an activity of significant economic and environmental relevance in Brazil, with emphasis on the Northeast region, where the country ranks among the leading shrimp producers. However, shrimp farming faces considerable challenges, such as poor pond management, pollution, and higher incidence of diseases, resulting in reduced product quality. To address these issues and promote sustainable practices, a continuous monitoring system integrating Arduinos is proposed. The system monitors essential water parameters, including temperature, pH, and ammonia levels, and automates shrimp feeding in a precise and efficient manner. The collected data are stored for historical analysis, allowing continuous improvements in pond management. The web platform provides users with real-time access to the data from each pond, as well as functionalities for managing information and automated feeding control, ensuring greater convenience and operational accuracy. With these resources, the system aims not only to increase production efficiency but also to reduce environmental impacts, promoting a more responsible and sustainable shrimp farming practice.
+\end{Abstract}
+
+\makeindex
+
+\addbibresource{fatec-article.bib}
+
+\begin{document}
+
+\section*{Introdução}%
+\label{sect:intro}
+\input{Topicos/introducao}
+
+\section*{OBJETIVO}\label{sect:obj}
+
+\input{Topicos/objetivo}
+
+\section*{ESTADO DA ARTE}\label{sect:estadoarte}
+
+\input{Topicos/estadodaarte}
+
+\section*{METODOLOGIA}\label{sect:metodologia}
+
+\input{Topicos/metodologia}
+
+\section*{RESULTADOS PRELIMINARES}\label{sect:resultados}
+
+\input{Topicos/resultados}
+
+\section*{CONCLUSÃO}\label{sect:conclusao}
+
+\input{Topicos/conclusao}
+
+\newpage
+
+\printbibliography
+
+\end{document}
