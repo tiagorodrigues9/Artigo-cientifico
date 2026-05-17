@@ -110,7 +110,7 @@
     
     {\normalsize
     Davi Mathais de Almeida\\
-    Leandro Augusto Muniz\\
+    Leandro Augusto De Souza Muniz\\
     Tiago de Lara Rodrigues
     }
     
@@ -146,7 +146,7 @@
 % ===== CANVAS =====
 \section{CANVAS: Modelo de Negócio e Estratégia}
 
-O Business Model Canvas \cite{osterwalder2011} é uma ferramenta visual estratégica\footnote{O Canvas foi desenvolvido por Alexander Osterwalder e é amplamente utilizado em startups e empresas estabelecidas para modelagem de negócios.} que permite descrever, analisar e projetar modelos de negócio de forma clara e objetiva. O canvas é dividido em nove blocos fundamentais que cobrem as principais áreas de um negócio.
+O Business Model Canvas \cite{osterwalder2011} é uma ferramenta visual estratégica que permite descrever, analisar e projetar modelos de negócio de forma clara e objetiva. O canvas é dividido em nove blocos fundamentais que cobrem as principais áreas de um negócio.
 
 \begin{table}[H]
 \centering
@@ -161,7 +161,7 @@ Consultores da carcinicultura, produtores de camarão & Interpretação de dados
 \hline
  & \textbf{Recursos Principais} & & \textbf{Canais} & \\
 \hline
- & [Sensores de temperatura, pH e amônia, microcontrolador ESP32, dispensador automatizado de ração] & & [Comunicação via redes sociais, e-mail e telefone] & \\
+ & Sensores de temperatura, pH e amônia, microcontrolador ESP32, dispensador automatizado de ração & & Comunicação via redes sociais, e-mail e telefone & \\
 \hline
 \multicolumn{2}{|p{5.5cm}|}{\textbf{Estrutura de Custos}} & \multicolumn{3}{p{7.5cm}|}{\textbf{Fontes de Receita}} \\
 \hline
@@ -170,10 +170,14 @@ Consultores da carcinicultura, produtores de camarão & Interpretação de dados
 \end{tabular}
 \end{table}
 
+\subsection{Análise do Modelo de Negócio}
+
+A análise do Canvas revela que a proposta de valor do projeto está diretamente alinhada ao segmento de mercado identificado: a automatização do cuidado dos cativeiros e a redução de custos operacionais atendem às necessidades dos produtores de camarão que atualmente dedicam em média cinco horas diárias ao manejo manual. As atividades-chave de interpretação de dados e monitoramento em tempo real são viabilizadas pelos recursos principais, notadamente o microcontrolador ESP32 e os sensores integrados, que constituem a base tecnológica do sistema. O modelo de receita baseado em assinaturas mensais e anuais garante previsibilidade financeira e permite a manutenção contínua do sistema, enquanto as parcerias com consultores da carcinicultura e produtores locais asseguram a validação técnica e a aderência da solução à realidade do setor. Os canais de comunicação via redes sociais, e-mail e telefone possibilitam tanto a aquisição de novos clientes quanto o suporte técnico aos produtores já cadastrados.
+
 % ===== SWOT =====
 \section{SWOT: Análise Estratégica}
 
-A Análise SWOT (Strengths, Weaknesses, Opportunities, Threats) ou FOFA (Forças, Oportunidades, Fraquezas e Ameaças) \cite{chiavenato2020} é uma ferramenta fundamental para planejamento estratégico\footnote{A análise SWOT foi criada na década de 1960 por Albert Humphrey no Stanford Research Institute.} que permite identificar fatores internos e externos que impactam o projeto. Analisa forças, fraquezas, oportunidades e ameaças do projeto.
+A Análise SWOT (Strengths, Weaknesses, Opportunities, Threats) ou FOFA (Forças, Oportunidades, Fraquezas e Ameaças) \cite{chiavenato2020} é uma ferramenta fundamental para planejamento estratégico que permite identificar fatores internos e externos que impactam o projeto. Analisa forças, fraquezas, oportunidades e ameaças do projeto.
 
 \begin{table}[H]
 \centering
@@ -189,7 +193,7 @@ A Análise SWOT (Strengths, Weaknesses, Opportunities, Threats) ou FOFA (Forças
 \begin{itemize}
     \item Integração entre aplicação e sensores IoT em tempo real
     \item Automação de alimentação
-    \item Alertas imediatos e gráficos simples
+    \item Sistema de alertas multicanal
     \item Interface intuitiva e responsiva
     \item Redução de custos operacionais
 \end{itemize}
@@ -222,9 +226,8 @@ A Análise SWOT (Strengths, Weaknesses, Opportunities, Threats) ou FOFA (Forças
 \begin{itemize}
     \item Concorrência de soluções similares
     \item Resistência à adoção de novas tecnologias
-    \item Problemas de infraestrutura em áreas rurais
+    \item Cobertura \textit{Wi-Fi} limitada em propriedades rurais do Vale do Ribeira, exigindo soluções de conectividade alternativas
     \item Risco de falhas técnicas
-    \item Questões regulatórias e de conformidade
 \end{itemize}
 \end{minipage}
 \\
@@ -236,10 +239,10 @@ A Análise SWOT (Strengths, Weaknesses, Opportunities, Threats) ou FOFA (Forças
 
 Com base na análise SWOT, as principais estratégias devem focar em:
 \begin{itemize}
-    \item \textbf{Forças + Oportunidades:} Investir no marketing digital para aproveitar o crescimento do mercado
-    \item \textbf{Forças + Ameaças:} Reforçar a segurança para se diferenciar da concorrência
-    \item \textbf{Fraquezas + Oportunidades:} Buscar parcerias para ampliar a presença no mercado
-    \item \textbf{Fraquezas + Ameaças:} Criar planos de contingência e melhorar a documentação
+    \item \textbf{Forças + Oportunidades:} Utilizar a integração IoT e o sistema de alertas multicanal como diferencial competitivo para captar produtores no crescente mercado de aquicultura, firmando parcerias com instituições de pesquisa como a UNESP para validação científica
+    \item \textbf{Forças + Ameaças:} Explorar o armazenamento local (NVS) do ESP32 e a arquitetura resiliente para mitigar a cobertura \textit{Wi-Fi} limitada no Vale do Ribeira, investigando futuramente conectividade LoRa/4G
+    \item \textbf{Fraquezas + Oportunidades:} Desenvolver programa de treinamento simplificado para produtores, aproveitando a interface intuitiva e a persona do usuário-alvo como base para redução da curva de aprendizado
+    \item \textbf{Fraquezas + Ameaças:} Implementar plano de manutenção preventiva dos sensores e redesenho mecânico do dispensador para reduzir o risco de falhas técnicas e o custo operacional contínuo
 \end{itemize}
 
 % ===== UX/UI =====
@@ -266,11 +269,28 @@ Primária &
 & \#aed5ff $\rightarrow$ \#ffc2c2 & Botões principais, destaques \\
 
 Secundária & \colorbox[HTML]{2261A6}{\phantom{AAA}} & \#2261A6 & Elementos secundários \\
-Fundo & \colorbox[HTML]{FFFFFF}{\phantom{AAA}} & \#FFFFFF & Background padrão \\
-Fundo Informações & \colorbox[HTML]{F8fafc}{\phantom{AAA}} & \#F8fafc & Background de informações \\
+Fundo & \colorbox[HTML]{FFFFFF}{\phantom{AAA}} & \#FFFFFF & \textit{Background} padrão \\
+Fundo Informações & \colorbox[HTML]{F8fafc}{\phantom{AAA}} & \#F8fafc & \textit{Background} de informações \\
 Texto & \colorbox[HTML]{000000}{\color{white}\phantom{AAA}} & \#000000 & Texto principal \\
 Sucesso & \colorbox[HTML]{166534}{\phantom{AAA}} & \#166534 & Mensagens de sucesso \\
 Erro & \colorbox[HTML]{991b1b}{\color{white}\phantom{AAA}} & \#991b1b & Mensagens de erro \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Tipografia}
+
+\begin{table}[H]
+\centering
+\caption{Tipografia do Projeto}
+\label{tab:tipografia}
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{Elemento} & \textbf{Fonte} & \textbf{Tamanho} & \textbf{Uso} \\
+\hline
+Títulos & Montserrat & 28px & Cabeçalhos de seções e páginas \\
+Corpo & Roboto & 20px & Texto principal e descrições \\
+Botões & Poppins & 16px & Botões de ação e navegação \\
 \hline
 \end{tabular}
 \end{table}
@@ -282,7 +302,7 @@ Esta seção documenta o website institucional/portfólio da equipe que desenvol
 
 \subsection{Mapa do Site da Equipe}
 
-O mapa do site (sitemap) mostra a hierarquia e organização das páginas do website da equipe:
+O mapa do site (\textit{sitemap}) mostra a hierarquia e organização das páginas do website da equipe:
 
 \begin{figure}[H]
 \centering
@@ -323,48 +343,11 @@ O mapa do site (sitemap) mostra a hierarquia e organização das páginas do web
 
 \begin{itemize}
     \item \textbf{Home:} Apresentação inicial da equipe
-    \item \textbf{Sobre Nós:} Conteúdo sobre nossos valores, missão e visão
+    \item \textbf{Sobre:} Conteúdo sobre nossos valores, missão e visão
     \item \textbf{Serviços:} Descrição dos serviços oferecidos pela equipe
     \item \textbf{Equipe:} Perfil dos membros (nome, foto, função, LinkedIn/GitHub)
     \item \textbf{Contato:} Formulário de contato e links para redes sociais
 \end{itemize}
-
-\subsection{Screenshots do Website da Equipe}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=\textwidth]{imgs/Website-Inicio.png}
-\caption{Página inicial do website da equipe}
-\label{fig:website-home}
-\end{figure}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=\textwidth]{imgs/Website-Sobre.png}
-\caption{Página "Sobre Nós" do website da equipe}
-\label{fig:website-sobre}
-\end{figure}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=\textwidth]{imgs/Website-Servicos.png}
-\caption{Página "Serviços" do website da equipe}
-\label{fig:website-servicos}
-\end{figure}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=\textwidth]{imgs/Website-Equipe.png}
-\caption{Página "Equipe" do website da equipe}
-\label{fig:website-equipe}
-\end{figure}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=\textwidth]{imgs/Website-Contato.png}
-\caption{Página "Contato" do website da equipe}
-\label{fig:website-contato}
-\end{figure}
 
 \subsection{Especificações Técnicas do Site da Equipe}
 
@@ -383,7 +366,7 @@ Estilização e Design & Tailwind CSS v4 & Framework CSS utilitário para respon
 Motor de Animações & Framer Motion & Biblioteca declarativa para animações e transições complexas \\
 Iconografia Vetorial & Lucide / React Icons & Bibliotecas de ícones modernos, responsivos e otimizados \\
 Serviço de Mensageria & EmailJS & Plataforma \textit{backend-as-a-service} para envio de e-mails \\
-Hospedagem e Deploy & Vercel & Plataforma de Edge Network e hosting com deploy contínuo \\
+Hospedagem e \textit{Deploy} & Vercel & Plataforma de \textit{Edge Network} e \textit{hosting} com \textit{deploy} contínuo \\
 \hline
 \end{tabular}
 \end{table}
@@ -391,93 +374,146 @@ Hospedagem e Deploy & Vercel & Plataforma de Edge Network e hosting com deploy c
 % ===== DIAGRAMAS UML =====
 \section{Diagramas UML: Modelagem Visual do Sistema}
 
-A Unified Modeling Language (UML) \cite{booch2005} é uma linguagem de modelagem visual usada para especificar, visualizar, construir e documentar artefatos de sistemas de software.\footnote{A UML foi padronizada pela Object Management Group (OMG) em 1997.}
+A Unified Modeling Language (UML) \cite{booch2005} é uma linguagem de modelagem visual usada para especificar, visualizar, construir e documentar artefatos de sistemas de \textit{software}.
 
 \subsection{Diagrama de Casos de Uso}
 
-O diagrama de casos de uso representa as funcionalidades do sistema do ponto de vista do usuário:
+O diagrama identifica quatro atores principais e suas interações com o sistema: o Equipamento IoT, o Funcionário, o Dono e a Equipe técnica, cada um com permissões e funcionalidades específicas.
 
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Casos de Uso}%
-    \label{fig:diagrama-caso-uso}%
+    \caption{Diagrama de Casos de Uso}
+    \label{fig:diagrama-caso-uso}
         \includegraphics[width=0.8\textwidth]{imgs/diagrama_caso_uso.png}
-    \footnote{Autoria Própria}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 
 \subsection{Diagrama de Classes}
 
-O diagrama de classes mostra a estrutura estática do sistema, incluindo todas as entidades, seus atributos, métodos e os relacionamentos entre elas.
+Apresenta a estrutura orientada a objetos do sistema, com Users como classe central e seus relacionamentos com Cativeiros, Fazendas e os módulos de comunicação e notificações. Inclui os métodos de cada classe e as associações N:N por meio de coleções intermediárias.
+
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Classes}%
-    \label{fig:diagrama-classes}%
-        \includegraphics[width=\textwidth]{imgs/diagrama_classes.png}
-    \footnote{Autoria Própria}
+    \caption{Diagrama de Classes}
+    \label{fig:diagrama-classes}
+        \includegraphics[width=1.1\textwidth]{imgs/diagrama_classes2.png}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 \newpage
 
-\subsection{Diagrama de Sequência}
+\subsection{Diagrama de Objetos}
 
-O diagrama de sequência representa a interação entre os objetos ao longo do tempo, mostrando a ordem das mensagens trocadas para realizar uma funcionalidade específica.
+O diagrama de objetos ilustra instâncias concretas das classes do sistema em um cenário de uso, exemplificando os valores dos atributos e os vínculos entre objetos em tempo de execução.
 
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Sequência}%
-    \label{fig:diagrama-sequencia}%
+    \caption{Diagrama de Objetos}
+    \label{fig:diagrama-objetos}
+        \includegraphics[width=1.0\textwidth]{imgs/diagrama_objetos.jpeg}
+    \\{\small Fonte: Autoria própria}
+\end{figure}
+
+\subsection{Diagrama de Sequência}
+
+Detalha três fluxos principais de interação: monitoramento em tempo real, visualização pelo usuário e controle de alimentação, envolvendo o Aplicativo, a API, o Banco de Dados e o ESP32.
+
+\begin{figure}[H]
+    \centering
+    \caption{Diagrama de Sequência}
+    \label{fig:diagrama-sequencia}
         \includegraphics[width=\textwidth]{imgs/diagrama_sequencia.png}
-    \footnote{Autoria Própria}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 
 \subsection{Diagrama de Atividades}
 
-O diagrama de atividades representa o fluxo de trabalho ou processo, mostrando as atividades, decisões e paralelismos envolvidos na execução de uma funcionalidade ou processo de negócio.
+Descreve o fluxo completo de operação do sistema, desde o cadastro do usuário até o ciclo contínuo de monitoramento e controle de alimentação, incluindo a lógica de verificação de limites e envio de alertas.
 
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Atividades}%
-    \label{fig:diagrama-atividades}%
+    \caption{Diagrama de Atividades}
+    \label{fig:diagrama-atividades}
         \includegraphics[width=0.4\textwidth]{imgs/diagrama_atividades.png}
-    \footnote{Autoria Própria}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 
 \subsection{Diagrama de Componentes}
 
-O diagrama de componentes mostra a organização física dos componentes do sistema, incluindo módulos, bibliotecas e subsistemas, e como eles se relacionam.
+Organiza o sistema em três blocos principais: Frontend (Next.js/Vercel), Backend (Node.js + Express/Render) e Componente IoT (ESP32), com comunicação via HTTPS e conexão ao MongoDB Atlas via Mongoose.
 
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Componentes}%
-    \label{fig:diagrama-componentes}%
+    \caption{Diagrama de Componentes}
+    \label{fig:diagrama-componentes}
         \includegraphics[width=\textwidth]{imgs/diagrama_componentes.png}
-    \footnote{Autoria Própria}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 
 \subsection{Diagrama de Implantação}
 
-O diagrama de implantação representa a arquitetura física do sistema, mostrando os nós (hardware) e os artefatos (software) implantados neles, bem como as conexões entre os nós.
+Apresenta a distribuição física dos componentes em produção, incluindo a aplicação PWA na Vercel, a API REST no Render, o banco MongoDB Atlas e o ESP32 no ambiente do cativeiro, com \textit{deploy} contínuo via GitHub.
 
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Implantação}%
-    \label{fig:diagrama-implantacao}%
+    \caption{Diagrama de Implantação}
+    \label{fig:diagrama-implantacao}
         \includegraphics[width=0.8\textwidth]{imgs/diagrama_implantacao.png}
-    \footnote{Autoria Própria}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 
 \subsection{Diagrama de Estados}
 
-O diagrama de estados mostra os estados de um objeto e as transições entre esses estados, geralmente em resposta a eventos ou condições específicas.
+Modela o ciclo de vida de um cativeiro em quatro estados: AguardandoInstalação, Monitorando, EmAlerta e Inativo, com transições acionadas por eventos do sistema e ações do usuário.
 
 \begin{figure}[H]
     \centering
-    \caption{Diagrama de Estados}%
-    \label{fig:diagrama-estados}%
+    \caption{Diagrama de Estados}
+    \label{fig:diagrama-estados}
         \includegraphics[width=0.8\textwidth]{imgs/diagrama_estados.png}
-    \footnote{Autoria Própria}
+    \\{\small Fonte: Autoria própria}
 \end{figure}
 
-Para realizar a montagem dos diagramas, foi utilizado a ferramenta online PlantUML, que permite a criação de diagramas UML através de código.\footnote{O PlantUML foi desenvolvido por Guillaume Boissinot e é amplamente utilizado em projetos de software para documentação e visualização de sistemas.}
+Para realizar a montagem dos diagramas, foi utilizada a ferramenta \textit{online} PlantUML, que permite a criação de diagramas UML através de código.
+
+\section{Diagrama de Banco de Dados}
+
+O diagrama de banco de dados representa a estrutura do banco de dados não relacional (NoSQL) utilizado no projeto, mostrando as coleções, seus campos e os relacionamentos entre elas.
+
+\subsection{Modelo Conceitual}
+
+O modelo conceitual representa as entidades e seus relacionamentos em alto nível, destacando as cardinalidades (1,1) e (1,N) entre todas as entidades do sistema de forma independente de tecnologia.
+
+\begin{figure}[H]
+    \centering
+    \caption{Modelo Conceitual do Banco de Dados}
+    \label{fig:modelo-conceitual}
+        \includegraphics[width=1.1\textwidth]{imgs/modelo_conceitual.png}
+    \\{\small Fonte: Autoria própria}
+\end{figure}
+
+\subsection{Modelo Lógico}
+
+O modelo lógico refina o conceitual para um esquema de coleções MongoDB, detalhando os documentos como Tipos\_camarao, Cativeiros, Sitios, Parametros\_atuais, Dietas, Sensores, Usuarios, entre outros, com seus campos, tipos de dados e referências entre coleções.
+
+\begin{figure}[H]
+    \centering
+    \caption{Modelo Lógico do Banco de Dados}
+    \label{fig:modelo-logico}
+        \includegraphics[width=1.1\textwidth]{imgs/modelo_logico.jpeg}
+    \\{\small Fonte: Autoria própria}
+\end{figure}
+
+\subsection{Modelo Físico}
+
+O modelo físico é a implementação final utilizando \textit{Mongoose Schemas}, com definições de tipos (String, Number, Boolean, Buffer, Map) e restrições (\texttt{required: true}), voltado para a criação direta das coleções no MongoDB Atlas, contemplando todas as entidades do sistema incluindo EmailSettings, PushSubscription, Conversation, Message e Request.
+
+\begin{figure}[H]
+    \centering
+    \caption{Modelo Físico do Banco de Dados}
+    \label{fig:modelo-fisico}
+        \includegraphics[width=1.1\textwidth]{imgs/modelo_fisico.jpg}
+    \\{\small Fonte: Autoria própria}
+\end{figure}
 
 % ===== DEVOPS =====
 \section{DevOps: Infraestrutura, Automação e Entrega Contínua}
@@ -582,7 +618,6 @@ Esta seção documenta como o sistema funciona em diferentes ambientes e platafo
     \item Ambiente local para desenvolvimento e testes da aplicação
     \item Docker Compose para integração entre API (porta 4000) e Frontend (porta 3000)
     \item Comunicação entre serviços via \texttt{localhost} com portas dedicadas
-    \item Ngrok para exposição de serviços locais em túneis HTTP
     \item Controle de versão integrado ao Git e GitHub
     \item Testes de sintaxe e build executados via CI antes do merge
 \end{itemize} \\
@@ -670,7 +705,7 @@ A arquitetura de deployment em produção utiliza serviços gerenciados na nuvem
 \end{figure}
 
 \subsection{Configuração Docker Compose (Desenvolvimento)}
-Para o ambiente de desenvolvimento local, utiliza-se Docker Compose:
+Para o ambiente de desenvolvimento local, utiliza-se Docker Compose para orquestrar os serviços. Em produção, o sistema é hospedado diretamente nas plataformas Vercel (\textit{frontend}) e Render (API), sem utilização de containers:
 \begin{verbatim}
 services:
   api:
@@ -679,7 +714,7 @@ services:
     restart: unless-stopped
     env_file: ../api/.env
     environment:
-      - NODE_ENV=production
+      - NODE_ENV=development
       - PORT=4000
     ports:
       - "4000:4000"
@@ -724,11 +759,13 @@ As métricas a seguir são \textbf{valores de referência} publicados pelas plat
 \newpage
 \section*{Conclusão}
 
-O conjunto de artefatos apresentado neste documento reflete o planejamento e a fundamentação técnica do projeto de monitoramento IoT para carcinicultura. A análise do Business Model Canvas evidenciou um modelo de negócio centrado na automação e na redução de custos operacionais para produtores de camarão, enquanto a análise SWOT identificou a dependência de conectividade e o custo inicial como principais desafios internos, contrabalançados pelo crescimento do mercado de aquicultura e pela demanda por soluções sustentáveis.
+O conjunto de artefatos apresentado neste documento reflete o planejamento e a fundamentação técnica do projeto de monitoramento IoT para carcinicultura. A análise do Business Model Canvas, complementada pela interpretação estratégica dos nove blocos, evidenciou um modelo de negócio centrado na automação e na redução de custos operacionais para produtores de camarão. A análise SWOT identificou a dependência de conectividade e o custo inicial como principais desafios internos, contrabalançados pelo crescimento do mercado de aquicultura e pela demanda por soluções sustentáveis.
 
-No âmbito técnico, os sete diagramas UML documentam a arquitetura completa do sistema, desde os casos de uso até a infraestrutura de implantação, fornecendo uma visão abrangente das interações entre os componentes. A infraestrutura DevOps implementada, com pipeline CI/CD via GitHub Actions, containerização com Docker e deploy contínuo nas plataformas Vercel e Render, garante um fluxo de entrega automatizado e rastreável.
+A seção de UX/UI foi estruturada com guia de estilos, tipografia, componentes visuais, persona do usuário-alvo e jornada de uso, fundamentando as decisões de \textit{design} na pesquisa de campo realizada com produtores do Vale do Ribeira.
 
-O website institucional da equipe e o guia de estilos UX/UI complementam a documentação ao padronizar a identidade visual e os canais de comunicação do projeto. Em conjunto, os artefatos formam uma base documental coerente que sustenta o desenvolvimento, a manutenção e a evolução futura do sistema.
+No âmbito técnico, os sete diagramas UML documentam a arquitetura completa do sistema, desde os casos de uso até a infraestrutura de implantação, fornecendo uma visão abrangente das interações entre os componentes. A modelagem do banco de dados não relacional (MongoDB) foi detalhada nos níveis conceitual, lógico e físico, refletindo a implementação real do sistema com \textit{Mongoose Schemas}. A infraestrutura DevOps implementada, com \textit{pipeline} CI/CD via GitHub Actions, containerização com Docker para desenvolvimento local e \textit{deploy} contínuo nas plataformas Vercel e Render, garante um fluxo de entrega automatizado e rastreável.
+
+O website institucional da equipe complementa a documentação ao padronizar a identidade visual e os canais de comunicação do projeto. Em conjunto, os artefatos formam uma base documental coerente que sustenta o desenvolvimento, a manutenção e a evolução futura do sistema.
 
 \vspace{1cm}
 \noindent\rule{\textwidth}{0.5pt}

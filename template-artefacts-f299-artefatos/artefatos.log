@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.5)  13 MAY 2026 14:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.5)  17 MAY 2026 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -730,17 +730,17 @@ Package hyperref Info: Link coloring OFF on input line 78.
 \@outlinefile=\write4
 \openout4 = `artefatos.out'.
 
-<imgs/base/fatec-rgt.png, id=125, 202.1151pt x 91.3011pt>
+<imgs/base/fatec-rgt.png, id=149, 202.1151pt x 91.3011pt>
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
 Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 87.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-<imgs/base/cps-logo.png, id=127, 63.1158pt x 42.3984pt>
+<imgs/base/cps-logo.png, id=151, 63.1158pt x 42.3984pt>
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
 Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 89.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-<imgs/base/governo-sp-secretaria-logo.png, id=128, 3144.74875pt x 557.08125pt>
+<imgs/base/governo-sp-secretaria-logo.png, id=152, 3144.74875pt x 557.08125pt>
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 91.
@@ -748,33 +748,33 @@ Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input
  [1
 
 {C:/Users/tr364/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./imgs/base/fatec-rgt.png> <./imgs/base/cps-logo.png> <./imgs/base/governo-sp-secretaria-logo.png>] (artefatos.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+(Font)              <6> on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -817,13 +817,11 @@ Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
  [2{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 149.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 149.
-LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 156.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 156.
 
 Underfull \hbox (badness 10000) in paragraph at lines 158--158
 []|\T1/lmr/bx/n/10 Parcerias
@@ -921,7 +919,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--162
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 164--164
-[]|\T1/lmr/m/n/10 [Sensores de
+[]|\T1/lmr/m/n/10 Sensores de
  []
 
 
@@ -956,7 +954,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--164
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 164--164
-[]|\T1/lmr/m/n/10 [Comunicação
+[]|\T1/lmr/m/n/10 Comunicação
  []
 
 
@@ -969,178 +967,160 @@ Underfull \hbox (badness 2980) in paragraph at lines 164--164
 \T1/lmr/m/n/10 ci-ais, e-mail e
  []
 
-
-Underfull \hbox (badness 4595) in paragraph at lines 225--226
-[]\T1/lmr/m/n/10.95 Problemas de in-fra-es-tru-tura em
- []
-
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 234.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 237.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 234.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 237.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 234.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 237.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [3]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 251.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 277.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 280.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 277.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 280.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 277.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 280.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
  [4]
-Overfull \hbox (15.73776pt too wide) in paragraph at lines 314--314
+Overfull \hbox (15.73776pt too wide) in paragraph at lines 334--334
  [][]\T1/lmr/m/n/10 Apresentação 
  []
 
 
-Overfull \hbox (5.01508pt too wide) in paragraph at lines 314--314
+Overfull \hbox (5.01508pt too wide) in paragraph at lines 334--334
  [][]\T1/lmr/m/n/10 Formulário 
  []
 
 
-Overfull \hbox (41.84235pt too wide) in paragraph at lines 315--316
+Overfull \hbox (41.84235pt too wide) in paragraph at lines 335--336
  [][] 
  []
 
-<imgs/Website-Inicio.png, id=208, 1144.87724pt x 648.62325pt>
-File: imgs/Website-Inicio.png Graphic file (type png)
-<use imgs/Website-Inicio.png>
-Package pdftex.def Info: imgs/Website-Inicio.png  used on input line 336.
-(pdftex.def)             Requested size: 455.24411pt x 257.92053pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 340.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 350.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 340.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 350.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 340.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 350.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [5{C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<imgs/Website-Sobre.png, id=216, 1144.87724pt x 648.62325pt>
-File: imgs/Website-Sobre.png Graphic file (type png)
-<use imgs/Website-Sobre.png>
-Package pdftex.def Info: imgs/Website-Sobre.png  used on input line 343.
-(pdftex.def)             Requested size: 455.24411pt x 257.92053pt.
-<imgs/Website-Servicos.png, id=217, 1141.866pt x 648.62325pt>
-File: imgs/Website-Servicos.png Graphic file (type png)
-<use imgs/Website-Servicos.png>
-Package pdftex.def Info: imgs/Website-Servicos.png  used on input line 350.
-(pdftex.def)             Requested size: 455.24411pt x 258.59354pt.
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 354.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 354.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 354.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [6 <./imgs/Website-Inicio.png> <./imgs/Website-Sobre.png>]
-<imgs/Website-Equipe.png, id=227, 1142.46825pt x 648.62325pt>
-File: imgs/Website-Equipe.png Graphic file (type png)
-<use imgs/Website-Equipe.png>
-Package pdftex.def Info: imgs/Website-Equipe.png  used on input line 357.
-(pdftex.def)             Requested size: 455.24411pt x 258.46487pt.
-<imgs/Website-Contato.png, id=228, 1144.275pt x 648.62325pt>
-File: imgs/Website-Contato.png Graphic file (type png)
-<use imgs/Website-Contato.png>
-Package pdftex.def Info: imgs/Website-Contato.png  used on input line 364.
-(pdftex.def)             Requested size: 455.24411pt x 258.0492pt.
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 368.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 368.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 368.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [7 <./imgs/Website-Servicos.png> <./imgs/Website-Equipe.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 []|\T1/lmr/m/n/10.95 Plataforma \T1/lmr/m/it/10.95 backend-as-a-service
  []
 
-<imgs/diagrama_caso_uso.png, id=240, 801.99625pt x 1190.4475pt>
+<imgs/diagrama_caso_uso.png, id=245, 801.99625pt x 1190.4475pt>
 File: imgs/diagrama_caso_uso.png Graphic file (type png)
 <use imgs/diagrama_caso_uso.png>
-Package pdftex.def Info: imgs/diagrama_caso_uso.png  used on input line 404.
+Package pdftex.def Info: imgs/diagrama_caso_uso.png  used on input line 387.
 (pdftex.def)             Requested size: 364.19667pt x 540.6009pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 406.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 390.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 406.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 390.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 406.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 390.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[8 <./imgs/Website-Contato.png>]
-<imgs/diagrama_classes.png, id=252, 2120.92375pt x 1704.3675pt>
-File: imgs/diagrama_classes.png Graphic file (type png)
-<use imgs/diagrama_classes.png>
-Package pdftex.def Info: imgs/diagrama_classes.png  used on input line 415.
-(pdftex.def)             Requested size: 455.24411pt x 365.83372pt.
+[6]
+<imgs/diagrama_classes2.png, id=253, 2580.64125pt x 2235.35126pt>
+File: imgs/diagrama_classes2.png Graphic file (type png)
+<use imgs/diagrama_classes2.png>
+Package pdftex.def Info: imgs/diagrama_classes2.png  used on input line 399.
+(pdftex.def)             Requested size: 500.77129pt x 433.75995pt.
+
+Overfull \hbox (45.52718pt too wide) in paragraph at lines 399--400
+ [][] 
+ []
+
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 418.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 402.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 418.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 402.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 418.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 402.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [9 <./imgs/diagrama_caso_uso.png>]
+[7 <./imgs/diagrama_caso_uso.png>]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 418.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 402.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 418.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 402.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 418.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 402.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [10 <./imgs/diagrama_classes.png>]
-<imgs/diagrama_sequencia.png, id=268, 1003.75pt x 1123.19624pt>
+ [8 <./imgs/diagrama_classes2.png>]
+<imgs/diagrama_objetos.jpeg, id=266, 1282.7925pt x 892.0527pt>
+File: imgs/diagrama_objetos.jpeg Graphic file (type jpg)
+<use imgs/diagrama_objetos.jpeg>
+Package pdftex.def Info: imgs/diagrama_objetos.jpeg  used on input line 412.
+(pdftex.def)             Requested size: 455.24411pt x 316.56523pt.
+<imgs/diagrama_sequencia.png, id=267, 1003.75pt x 1123.19624pt>
 File: imgs/diagrama_sequencia.png Graphic file (type png)
 <use imgs/diagrama_sequencia.png>
-Package pdftex.def Info: imgs/diagrama_sequencia.png  used on input line 428.
+Package pdftex.def Info: imgs/diagrama_sequencia.png  used on input line 424.
 (pdftex.def)             Requested size: 455.24411pt x 509.42693pt.
-<imgs/diagrama_atividades.png, id=270, 398.48875pt x 1314.9125pt>
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 427.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 427.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 427.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [9 <./imgs/diagrama_objetos.jpeg>]
+<imgs/diagrama_atividades.png, id=273, 398.48875pt x 1314.9125pt>
 File: imgs/diagrama_atividades.png Graphic file (type png)
 <use imgs/diagrama_atividades.png>
-Package pdftex.def Info: imgs/diagrama_atividades.png  used on input line 440.
+Package pdftex.def Info: imgs/diagrama_atividades.png  used on input line 436.
 (pdftex.def)             Requested size: 182.09486pt x 600.85431pt.
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 439.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 439.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 439.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [10 <./imgs/diagrama_sequencia.png>]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
 Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 443.
@@ -1153,230 +1133,266 @@ File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 443.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [11 <./imgs/diagrama_sequencia.png>]
-<imgs/diagrama_componentes.png, id=279, 1885.0425pt x 837.1275pt>
+ [11 <./imgs/diagrama_atividades.png>]
+<imgs/diagrama_componentes.png, id=286, 1885.0425pt x 837.1275pt>
 File: imgs/diagrama_componentes.png Graphic file (type png)
 <use imgs/diagrama_componentes.png>
-Package pdftex.def Info: imgs/diagrama_componentes.png  used on input line 452.
+Package pdftex.def Info: imgs/diagrama_componentes.png  used on input line 448.
 (pdftex.def)             Requested size: 455.24411pt x 202.1665pt.
+<imgs/diagrama_implantacao.png, id=287, 1141.26375pt x 822.07124pt>
+File: imgs/diagrama_implantacao.png Graphic file (type png)
+<use imgs/diagrama_implantacao.png>
+Package pdftex.def Info: imgs/diagrama_implantacao.png  used on input line 460.
+(pdftex.def)             Requested size: 364.19667pt x 262.32808pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 455.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 463.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 455.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 463.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 455.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 463.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [12 <./imgs/diagrama_atividades.png>]
-<imgs/diagrama_implantacao.png, id=289, 1141.26375pt x 822.07124pt>
-File: imgs/diagrama_implantacao.png Graphic file (type png)
-<use imgs/diagrama_implantacao.png>
-Package pdftex.def Info: imgs/diagrama_implantacao.png  used on input line 464.
-(pdftex.def)             Requested size: 364.19667pt x 262.32808pt.
-<imgs/diagrama_estados.png, id=291, 563.10374pt x 850.17625pt>
+ [12 <./imgs/diagrama_componentes.png>]
+<imgs/diagrama_estados.png, id=295, 563.10374pt x 850.17625pt>
 File: imgs/diagrama_estados.png Graphic file (type png)
 <use imgs/diagrama_estados.png>
-Package pdftex.def Info: imgs/diagrama_estados.png  used on input line 476.
+Package pdftex.def Info: imgs/diagrama_estados.png  used on input line 472.
 (pdftex.def)             Requested size: 364.19667pt x 549.87079pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 479.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 475.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 479.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 475.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 479.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 475.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [13 <./imgs/diagrama_componentes.png> <./imgs/diagrama_implantacao.png>]
+ [13 <./imgs/diagrama_implantacao.png>]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 485.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 482.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 485.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 482.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 485.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 482.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
  [14 <./imgs/diagrama_estados.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 487.
+<imgs/modelo_conceitual.png, id=308, 1810.765pt x 1403.2425pt>
+File: imgs/modelo_conceitual.png Graphic file (type png)
+<use imgs/modelo_conceitual.png>
+Package pdftex.def Info: imgs/modelo_conceitual.png  used on input line 490.
+(pdftex.def)             Requested size: 500.77129pt x 388.06616pt.
+
+Overfull \hbox (45.52718pt too wide) in paragraph at lines 490--491
+ [][] 
+ []
+
+<imgs/modelo_logico.jpeg, id=309, 971.3088pt x 596.9502pt>
+File: imgs/modelo_logico.jpeg Graphic file (type jpg)
+<use imgs/modelo_logico.jpeg>
+Package pdftex.def Info: imgs/modelo_logico.jpeg  used on input line 502.
+(pdftex.def)             Requested size: 500.77129pt x 307.76526pt.
+
+Overfull \hbox (45.52718pt too wide) in paragraph at lines 502--503
+ [][] 
+ []
+
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 505.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 505.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 505.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+[15 <./imgs/modelo_conceitual.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 508.
  (C:\Users\tr364\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+<imgs/modelo_fisico.jpg, id=316, 1352.4126pt x 1084.05pt>
+File: imgs/modelo_fisico.jpg Graphic file (type jpg)
+<use imgs/modelo_fisico.jpg>
+Package pdftex.def Info: imgs/modelo_fisico.jpg  used on input line 514.
+(pdftex.def)             Requested size: 500.77129pt x 401.38997pt.
+
+Overfull \hbox (45.52718pt too wide) in paragraph at lines 514--515
+ [][] 
+ []
+
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 545.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 517.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 545.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 517.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 545.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 517.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [15]
-Underfull \hbox (badness 3482) in paragraph at lines 616--617
+[16 <./imgs/modelo_logico.jpeg>]
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 547.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 547.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 547.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [17 <./imgs/modelo_fisico.jpg>]
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 603.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 603.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 603.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [18]
+Underfull \hbox (badness 3482) in paragraph at lines 651--652
 []\T1/lmr/m/n/10.95 Middleware de blo-queio de es-crita para mem-bros
  []
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 621.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 656.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 621.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 656.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 621.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 656.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[16]
-<imgs/diagrama_infraestrutura.png, id=328, 1556.81625pt x 967.615pt>
+[19]
+<imgs/diagrama_infraestrutura.png, id=344, 1556.81625pt x 967.615pt>
 File: imgs/diagrama_infraestrutura.png Graphic file (type png)
 <use imgs/diagrama_infraestrutura.png>
-Package pdftex.def Info: imgs/diagrama_infraestrutura.png  used on input line 628.
+Package pdftex.def Info: imgs/diagrama_infraestrutura.png  used on input line 663.
 (pdftex.def)             Requested size: 455.24411pt x 282.94873pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 632.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 667.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 632.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 667.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 632.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 667.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [17]
+ [20]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 671.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 706.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 671.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 706.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 671.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 706.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [18 <./imgs/diagrama_infraestrutura.png>]
-Overfull \hbox (46.64444pt too wide) in paragraph at lines 702--703
+ [21 <./imgs/diagrama_infraestrutura.png>]
+Overfull \hbox (46.64444pt too wide) in paragraph at lines 737--738
 []\T1/lmr/bx/n/10.95 Intervalo de Ve-ri-fi-ca-ção: \T1/lmr/m/n/10.95 Con-fi-gu-rá-vel via va-ri-á-vel de am-bi-ente (\T1/lmtt/m/n/10.95 MONITORING_INTERVAL_MINUTES\T1/lmr/m/n/10.95 ,
  []
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 704.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 738.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 704.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 738.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 704.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 738.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[19]
+[22]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 724.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 759.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 724.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 759.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 724.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 759.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [20]
+ [23]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 737.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 774.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 737.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 774.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 737.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 774.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [21] (artefatos.bbl)
+ [24] (artefatos.bbl)
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 741.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 778.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 741.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 778.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 741.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 778.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [22] (artefatos.aux)
+ [25] (artefatos.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `artefatos.out' has not changed.
-(rerunfilecheck)             Checksum: 2764F5269CB2FA0CA85CB5FE4FBDA41D;6025.
+(rerunfilecheck)             Checksum: 08C6AB33F469934A90D93A304384F879;6868.
  ) 
 Here is how much of TeX's memory you used:
- 26138 strings out of 467691
- 487188 string characters out of 5414988
- 886227 words of memory out of 5000000
- 54638 multiletter control sequences out of 15000+600000
+ 26137 strings out of 467691
+ 487136 string characters out of 5414988
+ 888315 words of memory out of 5000000
+ 54639 multiletter control sequences out of 15000+600000
  688982 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,18n,94p,656b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
-
+ 84i,19n,94p,1151b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
 
@@ -1384,9 +1400,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/tr364/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on artefatos.pdf (23 pages, 2440342 bytes).
+Output written on artefatos.pdf (26 pages, 3592059 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 339 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 438 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 382 words of extra memory for PDF output out of 10000 (max. 10000000)
 
