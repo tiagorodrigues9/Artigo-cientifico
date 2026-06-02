@@ -85,9 +85,9 @@
 }
 
 % Informações da apresentação
-\title{Modelo Latex Beamer para \\Desenvolvimento de Software Multiplataforma}
+\title{Criação de Camarão em Cativeiro com \\Monitoramento IoT para Gastronomia}
 \subtitle{}
-\author[DSM]{SOBRENOME, F.; SOBRENOME, C.; SOBRENOME, B.}
+\author[DSM]{ALMEIDA, D.; MUNIZ, L.; RODRIGUES, T.}
 \institute{Desenvolvimento de Software Multiplataforma\\FATEC Registro}
 \date{\today}
 
@@ -131,6 +131,12 @@
   \end{center}
 \end{frame}
 
+\section{Agenda}
+{
+\usebackgroundtemplate{%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/teste.png}%
+}
+
 % Slide de agenda
 \begin{frame}[b]{Agenda}
   \begin{itemize}
@@ -152,20 +158,10 @@
 \section{Pitch}
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_001.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/LOGO.png}%
 }
 \begin{frame}[b]{Pitch}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{Apresentação concisa e objetiva do projeto}
-    \item \parbox{0.60\textwidth}{Destaque do \textbf{problema} que o projeto resolve}
-    \item \parbox{0.60\textwidth}{Proposta de \textbf{valor} e diferenciais da solução}
-    \item \parbox{0.60\textwidth}{Público-alvo e \textbf{impacto} esperado}
-    \item \parbox{0.60\textwidth}{Visão geral das \textbf{tecnologias} utilizadas}
-  \end{itemize}
-  
-  \vfill
-  
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
+
 \end{frame}
 }
 
@@ -173,15 +169,13 @@
 
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_002.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/teste.png}%
 }
 \begin{frame}[b]{Problematização}
   \begin{itemize}
-    \item \parbox{0.60\textwidth}{Contextualização do \textbf{problema} identificado}
-    \item \parbox{0.60\textwidth}{Análise das \textbf{causas} e consequências}
-    \item \parbox{0.60\textwidth}{Impacto no público-alvo ou na área de atuação}
-    \item \parbox{0.60\textwidth}{Justificativa da \textbf{relevância} do projeto}
-    \item \parbox{0.60\textwidth}{Lacunas nas soluções existentes}
+    \item \parbox{0.60\textwidth}{Manejo predominantemente manual}
+    \item \parbox{0.60\textwidth}{Ausência de controle automatizado}
+    \item \parbox{0.60\textwidth}{Falta de registro histórico dos parâmetros ambientais}
   \end{itemize}
   
   \vfill
@@ -192,47 +186,44 @@
 
 \section{Estado da Arte}
 
+{
+\usebackgroundtemplate{}
 \begin{frame}[t]{Estado da Arte}
-  \scriptsize
-  
-  Análise de \textbf{soluções existentes} no mercado, comparação de \textbf{tecnologias} e abordagens, identificação de \textbf{gaps} e oportunidades, referências bibliográficas e \textbf{trabalhos relacionados}, tendências e \textbf{inovações} na área.
-  
-  \vspace{0.3cm}
-  
-  \begin{table}
+
+\begin{table}
     \centering
     \tiny
     \begin{tabular}{|p{2.5cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{1.5cm}|}
       \hline
       \textbf{Título/Autores} & \textbf{Objetivo} & \textbf{Método} & \textbf{Resultados} & \textbf{Limitações} & \textbf{Gap} \\
       \hline
-      Classificação de discurso de ódio com Transformers — Silva et al. (2024) & Identificar discurso de ódio em português & Fine-tuning de Transformer com validação cruzada 5-fold & F1 = 0,91, superior a SVM/CNN & Baixo desempenho em textos curtos & Sem explicabilidade e sem tempo real \\
+      Sistema de telemonitoramento para carcinicultura — Dantas (2020) & Monitorar temperatura, pH e oxigênio dissolvido em viveiros de camarão & ESP32 com LoRaWAN e integração AWS via MQTT & Variação de 0,5°C na temperatura e alcance de 138 metros & Ausência de monitoramento de amônia e baixa autonomia energética & Sem controle de alimentação e sem registro histórico \\
       \hline
-      Detecção de pragas agrícolas por CNN — Oliveira e Santos (2023) & Reconhecer pragas em imagens de campo & CNN profunda com transferência de aprendizado & Acurácia = 94\% & Sensível à iluminação/oclusão & Não executa em dispositivos de borda \\
+      Monitoramento em tempo real para fazendas de camarão de água doce — Uddin (2020) & Monitorar qualidade da água e taxa de sobrevivência em cultivo real & Arduino Yun com sensores múltiplos, método AHP em nuvem e notificações web & 4.600+ registros, erro inferior a 7\%, sobrevivência de 90\% & Dependência exclusiva de Wi-Fi e necessidade de calibração manual frequente & Sem automação da alimentação e sem monitoramento de amônia \\
       \hline
-      Detecção de intrusão com LSTM Autoencoder — Almeida et al. (2022) & Detectar anomalias no tráfego de rede & Autoencoder LSTM para reconstrução de séries temporais & Detecção = 96\% com menos falsos positivos & Alto custo computacional & Sem resposta automática ou interpretabilidade \\
+      Monitoramento via rede de sensores sem fio em viveiro de vannamei — Zainuddin (2019) & Monitorar temperatura, pH e turbidez em múltiplos pontos do viveiro & WSN com Atmega 2560/328, módulos Xbee (Zigbee) e ESP8266 & Acurácia de 97,75\% para temperatura, 98,85\% para pH e 99,73\% para turbidez & Sem redundância de hardware e limitações de escalabilidade & Sem controle de alimentação e sem alertas preventivos \\
       \hline
     \end{tabular}
   \end{table}
 \end{frame}
+}
 
 \section{Objetivo}
 
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_004.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/teste.png}%
 }
 \begin{frame}[b]{Objetivo}
   \begin{itemize}
-    \item \parbox{0.60\textwidth}{\textbf{Objetivo geral}: meta principal do projeto}
+    \item \parbox{0.60\textwidth}{\textbf{Objetivo geral}: Desenvolver um sistema de monitoramento automatizado para cativeiros de camarão.}
     \item \parbox{0.60\textwidth}{\textbf{Objetivos específicos}:}
     \begin{itemize}
-      \item \parbox{0.55\textwidth}{Desenvolver funcionalidade X}
-      \item \parbox{0.55\textwidth}{Implementar recurso Y}
-      \item \parbox{0.55\textwidth}{Validar com público-alvo}
+      \item \parbox{0.55\textwidth}{Monitorar remotamente os parâmetros ambientais (temperatura, pH, amônia)}
+      \item \parbox{0.55\textwidth}{Registrar e armazenar dados históricos dos cativeiros}
+      \item \parbox{0.55\textwidth}{Automatizar o fornecimento de ração}
+      \item \parbox{0.60\textwidth}{Disponibilizar uma aplicação web responsiva}
     \end{itemize}
-    \item \parbox{0.60\textwidth}{Resultados esperados e \textbf{entregas}}
-    \item \parbox{0.60\textwidth}{Métricas de \textbf{sucesso} do projeto}
   \end{itemize}
   
   \vfill
@@ -245,16 +236,16 @@
 
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_005.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/teste.png}%
 }
 \begin{frame}[b]{Ferramental}
   \begin{itemize}
-    \item \parbox{0.60\textwidth}{\textbf{Linguagens}: Python, JavaScript, etc}
-    \item \parbox{0.60\textwidth}{\textbf{Frameworks}: React, Node.js, Django, etc}
-    \item \parbox{0.60\textwidth}{\textbf{Banco de dados}: PostgreSQL, MongoDB, etc}
-    \item \parbox{0.60\textwidth}{\textbf{Infraestrutura}: AWS, Docker, Kubernetes, etc}
-    \item \parbox{0.60\textwidth}{\textbf{Ferramentas}: Git, VS Code, Figma, etc}
-    \item \parbox{0.60\textwidth}{\textbf{APIs} e integrações utilizadas}
+  \item \parbox{0.60\textwidth}{\textbf{Linguagens}: JavaScript, TypeScript, Arduino/C++}
+  \item \parbox{0.60\textwidth}{\textbf{Frameworks}: Express.js, Next.js 14, React 18, Mongoose}
+  \item \parbox{0.60\textwidth}{\textbf{Banco de dados}: MongoDB Atlas (cloud)}
+  \item \parbox{0.60\textwidth}{\textbf{Infraestrutura}: Docker,Node.js 18+, Alpine Linux}
+  \item \parbox{0.60\textwidth}{\textbf{Ferramentas}: Git, Vercel, Render Swagger/OpenAPI 3.0}
+  \item \parbox{0.60\textwidth}{\textbf{APIs e integrações utilizadas}: Nodemailer, MongoDB Atlas API, NTP Server, Web Push API, JWT, Axios, DallasTemperature, OneWire, HTTPClient}
   \end{itemize}
   
   \vfill
@@ -266,14 +257,18 @@
 \section{Metodologia}
 
 {
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_006.jpg}%
-}
+\usebackgroundtemplate{}
 \begin{frame}[t]{Metodologia}
-  
-  \scriptsize
-  Apresentação, em formato de fluxograma, dos principais processos implementados no projeto, evidenciando as tecnologias empregadas, tais como Internet das Coisas (IoT), Inteligência Artificial (IA) e Banco de Dados.
+  \centering
+  \includegraphics[width=0.8\paperwidth,keepaspectratio]{imgs/diagrama-iot-camarize.png}
+\end{frame}
+}
 
+{
+\usebackgroundtemplate{}
+\begin{frame}[t]{Metodologia}
+  \centering
+  \includegraphics[width=0.8\paperwidth,keepaspectratio]{imgs/fluxograma-camarize.png}
 \end{frame}
 }
 
@@ -281,38 +276,57 @@
 
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_007.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/LOGO.png}%
 }
 \begin{frame}[b]{Apresentação Prática}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{\textbf{Demonstração} ao vivo do sistema}
-    \item \parbox{0.60\textwidth}{Principais \textbf{funcionalidades} implementadas}
-    \item \parbox{0.60\textwidth}{\textbf{Interface} e experiência do usuário}
-    \item \parbox{0.60\textwidth}{Fluxos de \textbf{uso} e navegação}
-    \item \parbox{0.60\textwidth}{Casos de uso e \textbf{cenários} práticos}
-  \end{itemize}
   
   \vfill
   
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
+  {\fontsize{4}{5}\selectfont\textit{Fonte: Autoria Própria}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
 \end{frame}
 }
 
 \section{Resultados e Discussões}
 
 {
+\usebackgroundtemplate{}
+\begin{frame}[t]{Resultados e Discussões}
+  \begin{table}[H]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{ccccccc}
+      \hline
+      \textbf{Teste} & \textbf{Temp. Real (°C)} & \textbf{Temp. Sensor (°C)} & \textbf{pH Real} & \textbf{pH Sensor} & \textbf{Amônia Real} & \textbf{Amônia Sensor} \\
+      \hline
+      1 & 21,0 & 20,50 & 7,0 & 6,79 & 0,000 & 0,000 \\
+      2 & 26,0 & 25,79 & 7,0 & 6,79 & 0,000    & 0,000 \\
+      3 & 17,0 & 16,80 & 7,0 & 6,79 & 0,000    & 0,000 \\
+      4 & 21,0 & 20,50 & 5,0 & 4,80 & 0,000    & 0,000 \\
+      5 & 22,0 & 21,60 & 8,6 & 7,90 & 0,000    & 0,000 \\
+      6 & 22,0 & 21,60 & 7,0 & 6,79 & 0,000    & 0,000 \\
+      \hline
+      \textbf{Erro médio} & \multicolumn{2}{c}{\textbf{1,73\%}} & \multicolumn{2}{c}{\textbf{4,02\%}} & \multicolumn{2}{c}{—} \\
+      \textbf{Precisão média} & \multicolumn{2}{c}{\textbf{98,27\%}} & \multicolumn{2}{c}{\textbf{95,98\%}} & \multicolumn{2}{c}{—} \\
+      \hline
+    \end{tabular}}
+    \label{tab:sensores}
+  \end{table}
+\end{frame}
+}
+
+{
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_008.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/teste.png}%
 }
 \begin{frame}[b]{Resultados e Discussões}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{Principais \textbf{resultados} alcançados}
-    \item \parbox{0.60\textwidth}{Análise de \textbf{métricas} e indicadores}
-    \item \parbox{0.60\textwidth}{Feedback dos \textbf{usuários} e testes realizados}
-    \item \parbox{0.60\textwidth}{\textbf{Desafios} encontrados e soluções adotadas}
-    \item \parbox{0.60\textwidth}{Contribuições e \textbf{aprendizados} do projeto}
-    \item \parbox{0.60\textwidth}{\textbf{Trabalhos futuros} e melhorias propostas}
-  \end{itemize}
+\begin{itemize}
+  \item \parbox{0.60\textwidth}{Principais \textbf{resultados} alcançados: monitoramento em tempo real, alertas automáticos e controle remoto da alimentação}
+  \item \parbox{0.60\textwidth}{Análise de \textbf{métricas}: precisão de 98,27\% (temperatura) e 95,98\% (pH), alertas em ~2 minutos}
+  \item \parbox{0.60\textwidth}{Feedback dos \textbf{usuários}: 6 testes em ambiente real, interface aprovada em usabilidade}
+  \item \parbox{0.60\textwidth}{\textbf{Desafios}: sensor MQ-135 limitado em meio aquático e instabilidade mecânica no dispensador}
+  \item \parbox{0.60\textwidth}{Contribuições e \textbf{aprendizados}: viabilidade técnica de sistema IoT unificado de baixo custo}
+  \item \parbox{0.60\textwidth}{\textbf{Trabalhos futuros}: sensor íon-seletivo submersível, redesenho do dispensador e validação em cativeiro comercial}
+\end{itemize}
   
   \vfill
   
@@ -323,12 +337,12 @@
 % Slide Informações Gerais (clone)
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_022.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/obrigado.png}%
 }
 \begin{frame}[b]{}
   \vspace{0.2cm}
   
-  \hspace*{0.25\paperwidth}{\Large \textbf{Obrigado!}}
+  \hspace*{0.25\paperwidth}
   
   \vfill
 \end{frame}
