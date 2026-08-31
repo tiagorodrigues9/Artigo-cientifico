@@ -87,17 +87,6 @@ M.~S. Uddin, M.~Fatin~Istiaq, M.~Rasadin, and M.~Ruhel~Talukder, ``Freshwater
   abr. 2024. [Online]. Available: \url{https://doi.org/10.1002/eng2.12184}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Zainuddin2019}
-\BIBentryALTinterwordspacing
-Z.~Zainuddin, R.~Idris, and A.~Azis, ``Water quality monitoring system for
-  vannamae shrimp cultivation based on wireless sensor network in taipa,
-  mappakasunggu district, takalar,'' in \emph{Proceedings of the First
-  International Conference on Materials Engineering and Management --
-  Engineering Section (ICMEMe 2018)}.\hskip 1em plus 0.5em minus 0.4em\relax
-  Atlantis Press, 2019, pp. 89--92, acesso em: 18 abr. 2024. [Online].
-  Available: \url{https://doi.org/10.2991/icmeme-18.2019.20}
-\BIBentrySTDinterwordspacing
-
 \bibitem{dantas2020}
 \BIBentryALTinterwordspacing
 M.~F. d.~N. Dantas, ``Um sistema de telemonitoramento e automação baseado em
@@ -105,6 +94,15 @@ M.~F. d.~N. Dantas, ``Um sistema de telemonitoramento e automação baseado em
   Redes de Computadores, Universidade Federal do Ceará, Quixadá, CE, 2020,
   acesso em: 18 abr. 2024. [Online]. Available:
   \url{http://www.repositorio.ufc.br/handle/riufc/61231}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Arifani2024}
+\BIBentryALTinterwordspacing
+N.~B. Arifani and A.~Wisaksono, ``Iot-based vaname shrimp water quality
+  monitoring prototype using google spreadsheet,'' \emph{Journal for Technology
+  and Science}, vol.~1, no.~3, p. 99–106, Oct. 2024, acesso em: 29 ago. 2026.
+  [Online]. Available:
+  \url{https://journal.antispublisher.com/index.php/IPTEKS/article/view/210}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
